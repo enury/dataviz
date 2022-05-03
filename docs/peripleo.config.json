@@ -56,6 +56,13 @@
         "ccodes"
       ]
     },
+    {
+      "name":"Language",
+      "path":[
+        "relations",
+        "lang"
+      ]
+    },
     "type"
   ],
   "link_icons":{
