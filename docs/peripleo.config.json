@@ -1,9 +1,9 @@
 {
   "initial_bounds":[
-    2.321740, 
     -114.517079,
-    64.462982, 
-    57.209219
+    2.321740, 
+    57.209219,
+    64.462982
   ],
   "layers": [
     {
@@ -50,17 +50,10 @@
   ],
   "facets":[
     {
-      "name":"County",
+      "name":"Country",
       "path":[
         "properties",
         "county"
-      ]
-    },
-    {
-      "name":"Schools",
-      "path":[
-        "properties",
-        "schools"
       ]
     },
     "type"
