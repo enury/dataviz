@@ -45,7 +45,7 @@
       "name":"MARK16 Dataviz",
       "format":"LINKED_PLACES",
       "src":"https://raw.githubusercontent.com/enury/dataviz/main/docs/mark16-lp-example2.json",
-      "attribution": "MARK16 Dataviz © <a href=\"https://mark16.sib.swiss/\" target=\"_blank\">© DH+, SIB Swiss Institute of Bioinformatics, CH, 2020; ISSN 2673-9836</a>"
+      "attribution": "MARK16 Dataviz © <a href=\"https://mark16.sib.swiss/\" target=\"_blank\">DH+, SIB Swiss Institute of Bioinformatics, CH, 2020; ISSN 2673-9836</a>"
     }
   ],
   "facets":[
@@ -53,7 +53,7 @@
       "name":"Country",
       "path":[
         "properties",
-        "county"
+        "ccodes"
       ]
     },
     "type"
