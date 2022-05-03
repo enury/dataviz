@@ -1,0 +1,1129 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://raw.githubusercontent.com/LinkedPasts/linked-places/master/linkedplaces-context-v1.3.jsonld",
+    "features": [
+        {
+            "@id": "https://www.wikidata.org/wiki/Q185362",
+            "type": "Feature",
+            "properties": {
+                "title": "Saint Catherine Monastery",
+                "ccodes": ["EG"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            28.555831,
+                            33.975561
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Saint Catherine's Monastery, Mount Sinai",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300000641",
+                    "label": "monasteries (built complexes)",
+                    "sourceLabel": "monastery"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.a46c8kd3",
+                    "label": "syS",
+                    "lang": "syc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/10361034",
+                    "label": "GA 1210",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/8980d2164",
+                    "label": "GA 1192",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/aed3c04e",
+                    "label": "GA 083",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/9506e5dc",
+                    "label": "GA 1230",
+                    "lang": "grc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q81164649",
+            "type": "Feature",
+            "properties": {
+                "title": "Universitätsbibliothek Basel",
+                "ccodes": ["CH"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            47.55977, 7.58082
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Basel University Library",
+                    "lang": "en"
+                },
+                {
+                    "toponym": "BUniversitätsbibliothek Basel",
+                    "lang": "de"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "label": "academic libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.442azp39",
+                    "label": "GA 1420",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.41643ld6",
+                    "label": "GA 2",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/e795e203",
+                    "label": "GA 1",
+                    "lang": "grc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q578460",
+            "type": "Feature",
+            "properties": {
+                "title": "Biblioteca Nazionale Marciana",
+                "ccodes": ["IT"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            45.433333, 12.339167
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Biblioteca Nazionale Marciana",
+                    "lang": "en"
+                },
+                {
+                    "toponym": "Biblioteca nazionale Marciana",
+                    "lang": "it"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343387",
+                    "label": "national libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://www.geonames.org/7910626"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/156622926/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/names/n80040307.html"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/f936e1cc",
+                    "label": "GA 888",
+                    "lang": "grc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q2201144",
+            "type": "Feature",
+            "properties": {
+                "title": "Biblioteca nazionale universitaria di Torino",
+                "ccodes": ["IT"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            45.068684, 7.68633
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "National University Library of Turin",
+                    "lang": "en"
+                },
+                {
+                    "toponym": "Biblioteca nazionale universitaria di Torino",
+                    "lang": "it"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343387",
+                    "label": "national libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://www.geonames.org/6697883"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/135605580/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n82059101"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/d49ec78a",
+                    "label": "VL 1",
+                    "lang": "la"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q193563",
+            "type": "Feature",
+            "properties": {
+                "title": "Bibliothèque nationale de France",
+                "ccodes": ["FR"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            48.833611, 2.375833
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Bibliothèque nationale de France",
+                    "lang": "en"
+                },
+                {
+                    "toponym": "Bibliothèque nationale de France",
+                    "lang": "fr"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343387",
+                    "label": "national libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://www.geonames.org/6452876"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/137156173/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/no95028191"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.04dbyiri",
+                    "label": "sa 474",
+                    "lang": "cop"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.d3d1coro",
+                    "label": "GA 099",
+                    "lang": ["cop", "grc"]
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.7fdcvw5z",
+                    "label": "GA 274",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.540bgjjd",
+                    "label": "Eth 2",
+                    "lang": "gez"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/aae91e3f",
+                    "label": "GA 579",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/4242f209",
+                    "label": "GA 019",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/fd73c95e",
+                    "label": "GA 04",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/0eb228ed",
+                    "label": "GA 304",
+                    "lang": "grc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q82133",
+            "type": "Feature",
+            "properties": {
+                "title": "Bodleian Library",
+                "ccodes": ["UK"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            51.753972, -1.255139
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Bodleian Library",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343396",
+                    "label": "research libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/129788129/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n80020306"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.25fcevj8",
+                    "label": "bo 2",
+                    "lang": ["ar", "cop"]
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q23308",
+            "type": "Feature",
+            "properties": {
+                "title": "British Library",
+                "ccodes": ["UK"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            51.529444, -0.126944
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "British Library",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343387",
+                    "label": "national libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://www.geonames.org/6944331"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/121814978/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n81139951"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.23b72o82",
+                    "label": "bo 13",
+                    "lang": ["ar", "cop"]
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.2dfa3k8i",
+                    "label": "syC",
+                    "lang": "syc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.f87asw9i",
+                    "label": "Eth 1",
+                    "lang": "gez"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/0091fbae",
+                    "label": "GA 02",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/11280/97f4cc8a",
+                    "label": "GA 01",
+                    "lang": "grc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q1028334",
+            "type": "Feature",
+            "properties": {
+                "title": "Cambridge University Library",
+                "ccodes": ["UK"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            52.205167, 0.108056
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Cambridge University Library",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "label": "academic libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/140790558/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n81070793"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.5508o345",
+                    "label": "GA 05",
+                    "lang": ["grc", "la"]
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q1475704",
+            "type": "Feature",
+            "properties": {
+                "title": "Rabban Hormizd Monastery",
+                "ccodes": ["IQ"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            36.749167, 43.114444
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Chaldean Antonian Order Library, St. Hormizd Monastery (Alqosh, Irak)",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300000641",
+                    "label": "monasteries (built complexes)",
+                    "sourceLabel": "monastery"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/128078186/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n2010006076"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.b93c5jf3",
+                    "label": "syH6",
+                    "lang": "syc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q391976",
+            "type": "Feature",
+            "properties": {
+                "title": "Chester Beatty Library",
+                "ccodes": ["IE"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            53.342, -6.267
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Chester Beatty Library",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300312241",
+                    "label": "libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/127596636/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n80050107"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.cfac1n0c",
+                    "label": "GA 2604",
+                    "lang": "grc"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.69c54gki",
+                    "label": "arm 252",
+                    "lang": "xcl"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.f3f87nzv",
+                    "label": "syH5",
+                    "lang": "syc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q5312898",
+            "type": "Feature",
+            "properties": {
+                "title": "Duke University Libraries",
+                "ccodes": ["US"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            36.003104, -78.938356
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Duke University Libraries",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "label": "academic libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/159382949/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n85007446"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.602289z8",
+                    "label": "sa 366",
+                    "lang": "cop"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q1075126",
+            "type": "Feature",
+            "properties": {
+                "title": "Freer Gallery of Art",
+                "ccodes": ["US"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            38.887983, -77.026446
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Freer Gallery of Art",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300264847",
+                    "label": "art museums (buildings)",
+                    "sourceLabel": "art museum"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/159382949/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n85007446"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.4ffaz7d0",
+                    "label": "GA 032",
+                    "lang": "grc"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q1273306",
+            "type": "Feature",
+            "properties": {
+                "title": "E-codices",
+                "ccodes": ["CH"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            46.8, 7.15
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "E-codices",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300391336",
+                    "label": "digital libraries",
+                    "sourceLabel": "library"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.ba7e19yf",
+                    "label": "arb 3",
+                    "lang": "ar"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q5762205",
+            "type": "Feature",
+            "properties": {
+                "title": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
+                "ccodes": ["US"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            45.5815, -94.3925
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300312241",
+                    "label": "libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/130545939/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/no2005044796"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.daba634n",
+                    "label": "Eth 3",
+                    "lang": "gez"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
+                    "label": "Eth 4",
+                    "lang": "gez"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q2567785",
+            "type": "Feature",
+            "properties": {
+                "title": "National Archives and Library of Ethiopia",
+                "ccodes": ["ET"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            9.01806, 38.75
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "National Archives and Library of Ethiopia",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343387",
+                    "label": "national libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/143340671/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/no00074874"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
+                    "label": "Eth 4",
+                    "lang": "gez"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q6088902",
+            "type": "Feature",
+            "properties": {
+                "title": "Istifanos Monastery",
+                "ccodes": ["ET"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            11.3387, 39.6975
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Istifanos Monastery",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300000641",
+                    "label": "monasteries (built complexes)",
+                    "sourceLabel": "monastery"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://www.geonames.org/334824"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://doi.org/10.34847/nkl.daba634n",
+                    "label": "Eth 3",
+                    "lang": "gez"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q22720",
+            "type": "Feature",
+            "properties": {
+                "title": "Speyer Cathedral",
+                "ccodes": ["DE"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            49.317222, 8.4425
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Speyer Cathedral",
+                    "lang": "en"
+                },
+                {
+                    "toponym": "Speyer Dom",
+                    "lang": "de"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300007501",
+                    "label": "cathedrals (works by context)",
+                    "sourceLabel": "cathedral"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://www.geonames.org/334824"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "wd:P1830",
+                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_2",
+                    "label": "Got 1",
+                    "lang": "got"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q1325163",
+            "type": "Feature",
+            "properties": {
+                "title": "Historical Museum of the Palatinate",
+                "ccodes": ["DE"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            449.3157, 8.44157
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Historical Museum of the Palatinate",
+                    "lang": "en"
+                },
+                {
+                    "toponym": "Historisches Museum der Pfalz",
+                    "lang": "de"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300312304",
+                    "label": "history museums (institutions)",
+                    "sourceLabel": "museum"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/122897337/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n86067531"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_2",
+                    "label": "Got 1",
+                    "lang": "got"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q2901382",
+            "type": "Feature",
+            "properties": {
+                "title": "Uppsala University Library",
+                "ccodes": ["SE"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            59.8558, 17.6323
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "Uppsala University Library",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "label": "academic libraries (institutions)",
+                    "sourceLabel": "library"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://viaf.org/viaf/139714542/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://id.loc.gov/authorities/n50060405"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_1",
+                    "label": "Got 1",
+                    "lang": "got"
+                }
+            ]
+        },
+        {
+            "@id": "https://www.wikidata.org/wiki/Q3152521",
+            "type": "Feature",
+            "properties": {
+                "title": "MARK16",
+                "ccodes": ["CH"]
+            },
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            46.52226, 6.575103
+                        ]
+                    }
+                ]
+            },
+            "names": [
+                {
+                    "toponym": "MARK16",
+                    "lang": "en"
+                }
+            ],
+            "types": [
+                {
+                    "identifier": "aat:300404832",
+                    "label": "projects (object groupings)",
+                    "sourceLabel": "project"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_2",
+                    "label": "Got 1",
+                    "lang": "got"
+                }
+            ]
+        }
+    ]
+}
