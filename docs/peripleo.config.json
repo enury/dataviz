@@ -53,8 +53,7 @@
       "name":"Language",
       "path":[
         "relations",
-        "lang",
-        "name"
+        "lang"
       ]
     },
     {
