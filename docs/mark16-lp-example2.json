@@ -21,8 +21,10 @@
                 ]
             },
             "descriptions" : [
-                "value": "Greek-orthodox monastery in South Sinai, Egypt",
-                "source": "https://www.wikidata.org/wiki/Q185362"
+                {
+                    "value": "Greek-orthodox monastery in South Sinai, Egypt",
+                    "source": "https://www.wikidata.org/wiki/Q185362"
+                }
             ],
             "names": [
                 {
