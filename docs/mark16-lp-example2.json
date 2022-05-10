@@ -48,31 +48,56 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.a46c8kd3",
                     "label": "syS",
-                    "lang": "syc"
+                    "lang": [
+                        {
+                            "isocode": "syc",
+                            "name": "Syriac (Classical)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/10361034",
                     "label": "GA 1210",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/8980d2164",
                     "label": "GA 1192",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/aed3c04e",
                     "label": "GA 083",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/9506e5dc",
                     "label": "GA 1230",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 }
             ]
         },
@@ -116,19 +141,34 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.442azp39",
                     "label": "GA 1420",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.41643ld6",
                     "label": "GA 2",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/e795e203",
                     "label": "GA 1",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 }
             ]
         },
@@ -186,7 +226,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/f936e1cc",
                     "label": "GA 888",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 }
             ]
         },
@@ -244,7 +289,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/d49ec78a",
                     "label": "VL 1",
-                    "lang": "la"
+                    "lang": [
+                        {
+                            "isocode": "la",
+                            "name": "Latin"
+                        }
+                    ]
                 }
             ]
         },
@@ -302,49 +352,93 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.04dbyiri",
                     "label": "sa 474",
-                    "lang": "cop"
+                    "lang": [
+                        {
+                            "isocode": "cop",
+                            "name": "Coptic"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.d3d1coro",
                     "label": "GA 099",
-                    "lang": ["cop", "grc"]
+                    "lang": [
+                        {
+                            "isocode": "cop",
+                            "name": "Coptic"
+                        },
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.7fdcvw5z",
                     "label": "GA 274",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.540bgjjd",
                     "label": "Eth 2",
-                    "lang": "gez"
+                    "lang": [
+                        {
+                            "isocode": "gez",
+                            "name": "Ethiopic (Classical)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/aae91e3f",
                     "label": "GA 579",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/4242f209",
                     "label": "GA 019",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/fd73c95e",
                     "label": "GA 04",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/0eb228ed",
                     "label": "GA 304",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 }
             ]
         },
@@ -394,7 +488,16 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.25fcevj8",
                     "label": "bo 2",
-                    "lang": ["ar", "cop"]
+                    "lang": [
+                        {
+                            "isocode": "cop",
+                            "name": "Coptic"
+                        },
+                        {
+                            "isocode": "ar",
+                            "name": "Arabic"
+                        }
+                    ]
                 }
             ]
         },
@@ -448,31 +551,60 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.23b72o82",
                     "label": "bo 13",
-                    "lang": ["ar", "cop"]
+                    "lang": [
+                        {
+                            "isocode": "ar",
+                            "name": "Arabic"
+                        },
+                        {
+                            "isocode": "cop",
+                            "name": "Coptic"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.2dfa3k8i",
                     "label": "syC",
-                    "lang": "syc"
+                    "lang": [
+                        {
+                            "isocode": "syc",
+                            "name": "Syriac (Classical)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.f87asw9i",
                     "label": "Eth 1",
-                    "lang": "gez"
+                    "lang": [
+                        {
+                            "isocode": "gez",
+                            "name": "Ethiopic (Classical)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/0091fbae",
                     "label": "GA 02",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/11280/97f4cc8a",
                     "label": "GA 01",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 }
             ]
         },
@@ -522,7 +654,16 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.5508o345",
                     "label": "GA 05",
-                    "lang": ["grc", "la"]
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        },
+                        {
+                            "isocode": "la",
+                            "name": "Latin"
+                        }
+                    ] 
                 }
             ]
         },
@@ -572,7 +713,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.b93c5jf3",
                     "label": "syH6",
-                    "lang": "syc"
+                    "lang": [
+                        {
+                            "isocode": "syc",
+                            "name": "Syriac (Classical)"
+                        }
+                    ]
                 }
             ]
         },
@@ -622,19 +768,34 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.cfac1n0c",
                     "label": "GA 2604",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.69c54gki",
                     "label": "arm 252",
-                    "lang": "xcl"
+                    "lang": [
+                        {
+                            "isocode": "xcl",
+                            "name": "Armenian (Classical)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.f3f87nzv",
                     "label": "syH5",
-                    "lang": "syc"
+                    "lang": [
+                        {
+                            "isocode": "syc",
+                            "name": "Syriac (Classical)"
+                        }
+                    ]
                 }
             ]
         },
@@ -684,7 +845,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.602289z8",
                     "label": "sa 366",
-                    "lang": "cop"
+                    "lang": [
+                        {
+                            "isocode": "cop",
+                            "name": "Coptic"
+                        }
+                    ]
                 }
             ]
         },
@@ -734,7 +900,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.4ffaz7d0",
                     "label": "GA 032",
-                    "lang": "grc"
+                    "lang": [
+                        {
+                            "isocode": "grc",
+                            "name": "Greek (Ancient)"
+                        }
+                    ]
                 }
             ]
         },
@@ -774,7 +945,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.ba7e19yf",
                     "label": "arb 3",
-                    "lang": "ar"
+                    "lang": [
+                        {
+                            "isocode": "ar",
+                            "name": "Arabic"
+                        }
+                    ]
                 }
             ]
         },
@@ -824,13 +1000,23 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.daba634n",
                     "label": "Eth 3",
-                    "lang": "gez"
+                    "lang": [
+                        {
+                            "isocode": "gez",
+                            "name": "Ethiopic (Classical)"
+                        }
+                    ]
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
                     "label": "Eth 4",
-                    "lang": "gez"
+                    "lang": [
+                        {
+                            "isocode": "gez",
+                            "name": "Ethiopic (Classical)"
+                        }
+                    ]
                 }
             ]
         },
@@ -880,7 +1066,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
                     "label": "Eth 4",
-                    "lang": "gez"
+                    "lang": [
+                        {
+                            "isocode": "gez",
+                            "name": "Ethiopic (Classical)"
+                        }
+                    ]
                 }
             ]
         },
@@ -926,7 +1117,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://doi.org/10.34847/nkl.daba634n",
                     "label": "Eth 3",
-                    "lang": "gez"
+                    "lang": [
+                        {
+                            "isocode": "gez",
+                            "name": "Ethiopic (Classical)"
+                        }
+                    ]
                 }
             ]
         },
@@ -976,7 +1172,12 @@
                     "relationType": "wd:P1830",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_2",
                     "label": "Got 1",
-                    "lang": "got"
+                    "lang": [
+                        {
+                            "isocode": "got",
+                            "name": "Gothic"
+                        }
+                    ]
                 }
             ]
         },
@@ -1030,7 +1231,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_2",
                     "label": "Got 1",
-                    "lang": "got"
+                    "lang": [
+                        {
+                            "isocode": "got",
+                            "name": "Gothic"
+                        }
+                    ]
                 }
             ]
         },
@@ -1080,7 +1286,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_1",
                     "label": "Got 1",
-                    "lang": "got"
+                    "lang": [
+                        {
+                            "isocode": "got",
+                            "name": "Gothic"
+                        }
+                    ]
                 }
             ]
         },
@@ -1120,7 +1331,12 @@
                     "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i_2",
                     "label": "Got 1",
-                    "lang": "got"
+                    "lang": [
+                        {
+                            "isocode": "got",
+                            "name": "Gothic"
+                        }
+                    ]
                 }
             ]
         }
