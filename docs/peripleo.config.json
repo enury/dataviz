@@ -63,6 +63,13 @@
         "label"
       ]
     },
+    {
+      "name":"Location",
+      "path":[
+        "relations",
+        "relationName"
+      ]
+    },
     "type"
   ],
   "link_icons":{
