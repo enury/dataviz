@@ -49,18 +49,18 @@
     }
   ],
   "facets":[
-    {
-      "name":"Country",
-      "path":[
-        "properties",
-        "ccodes"
-      ]
-    },
-    {
+        {
       "name":"Language",
       "path":[
         "relations",
         "lang"
+      ]
+    },
+    {
+      "name":"Manuscripts",
+      "path":[
+        "relations",
+        "label"
       ]
     },
     "type"
