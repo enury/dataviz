@@ -20,6 +20,10 @@
                     }
                 ]
             },
+            "descriptions" : [
+                "value": "Greek-orthodox monastery in South Sinai, Egypt",
+                "source": "https://www.wikidata.org/wiki/Q185362"
+            ],
             "names": [
                 {
                     "toponym": "Saint Catherine's Monastery, Mount Sinai",
