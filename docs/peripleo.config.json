@@ -10,7 +10,7 @@
       "name": "Open Street Map",
       "type": "raster",
       "tiles": [
-        "https://www.osmap.uk/{z}/{x}/{y}.png"
+        "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
       ],
       "tileSize": 256,
       "attribution": "OpenStreetMap contributors",
