@@ -4,6 +4,7 @@
     "features": [
         {
             "@id": "https://www.wikidata.org/wiki/Q185362",
+            "uuid": "Q185362",
             "type": "Feature",
             "properties": {
                 "title": "Saint Catherine Monastery",
@@ -89,6 +90,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q81164649",
+            "uuid": "Q81164649",
             "type": "Feature",
             "properties": {
                 "title": "Universitätsbibliothek Basel",
@@ -154,6 +156,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q578460",
+            "uuid": "Q578460",
             "type": "Feature",
             "properties": {
                 "title": "Biblioteca Nazionale Marciana",
@@ -219,6 +222,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q2201144",
+            "uuid": "Q2201144",
             "type": "Feature",
             "properties": {
                 "title": "Biblioteca nazionale universitaria di Torino",
@@ -284,6 +288,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q193563",
+            "uuid": "Q193563",
             "type": "Feature",
             "properties": {
                 "title": "Bibliothèque nationale de France",
@@ -398,6 +403,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q82133",
+            "uuid": "Q82133",
             "type": "Feature",
             "properties": {
                 "title": "Bodleian Library",
@@ -455,6 +461,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q23308",
+            "uuid": "Q23308",
             "type": "Feature",
             "properties": {
                 "title": "British Library",
@@ -544,6 +551,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q1028334",
+            "uuid": "Q1028334",
             "type": "Feature",
             "properties": {
                 "title": "Cambridge University Library",
@@ -601,6 +609,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q1475704",
+            "uuid": "Q1475704",
             "type": "Feature",
             "properties": {
                 "title": "Rabban Hormizd Monastery",
@@ -658,6 +667,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q391976",
+            "uuid": "Q391976",
             "type": "Feature",
             "properties": {
                 "title": "Chester Beatty Library",
@@ -729,6 +739,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q5312898",
+            "uuid": "Q5312898",
             "type": "Feature",
             "properties": {
                 "title": "Duke University Libraries",
@@ -786,6 +797,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q1075126",
+            "uuid": "Q1075126",
             "type": "Feature",
             "properties": {
                 "title": "Freer Gallery of Art",
@@ -843,6 +855,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q1273306",
+            "uuid": "Q1273306",
             "type": "Feature",
             "properties": {
                 "title": "E-codices",
@@ -890,6 +903,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q5762205",
+            "uuid": "Q5762205",
             "type": "Feature",
             "properties": {
                 "title": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
@@ -938,14 +952,14 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
+                    "relationName": "digital",
                     "relationTo": "https://doi.org/10.34847/nkl.daba634n",
                     "label": "Eth 3",
                     "lang": "gez"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
+                    "relationName": "digital",
                     "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
                     "label": "Eth 4",
                     "lang": "gez"
@@ -954,6 +968,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q2567785",
+            "uuid": "Q2567785",
             "type": "Feature",
             "properties": {
                 "title": "National Archives and Library of Ethiopia",
@@ -1011,6 +1026,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q6088902",
+            "uuid": "Q6088902",
             "type": "Feature",
             "properties": {
                 "title": "Istifanos Monastery",
@@ -1064,6 +1080,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q22720",
+            "uuid": "Q22720",
             "type": "Feature",
             "properties": {
                 "title": "Speyer Cathedral",
@@ -1122,6 +1139,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q1325163",
+            "uuid": "Q1325163",
             "type": "Feature",
             "properties": {
                 "title": "Historical Museum of the Palatinate",
@@ -1184,6 +1202,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q2901382",
+            "uuid": "Q2901382",
             "type": "Feature",
             "properties": {
                 "title": "Uppsala University Library",
@@ -1242,6 +1261,7 @@
         },
         {
             "@id": "https://www.wikidata.org/wiki/Q3152521",
+            "uuid": "Q3152521",
             "type": "Feature",
             "properties": {
                 "title": "MARK16",
