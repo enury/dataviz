@@ -10,6 +10,13 @@
                 "title": "Saint Catherine Monastery",
                 "ccodes": ["EG"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -136,6 +143,13 @@
                 "title": "Universitätsbibliothek Basel",
                 "ccodes": ["CH"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -226,6 +240,13 @@
                 "title": "Biblioteca Nazionale Marciana",
                 "ccodes": ["IT"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -300,6 +321,13 @@
                 "title": "Biblioteca nazionale universitaria di Torino",
                 "ccodes": ["IT"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -373,6 +401,13 @@
             "properties": {
                 "title": "Bibliothèque nationale de France",
                 "ccodes": ["FR"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -553,6 +588,13 @@
                 "title": "Bodleian Library",
                 "ccodes": ["UK"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -618,6 +660,13 @@
             "properties": {
                 "title": "British Library",
                 "ccodes": ["UK"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -741,6 +790,13 @@
                 "title": "Cambridge University Library",
                 "ccodes": ["UK"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -807,6 +863,13 @@
                 "title": "Rabban Hormizd Monastery",
                 "ccodes": ["IQ"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -872,6 +935,13 @@
             "properties": {
                 "title": "Chester Beatty Library",
                 "ccodes": ["IE"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -969,6 +1039,13 @@
                 "title": "Duke University Libraries",
                 "ccodes": ["US"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -1034,6 +1111,13 @@
             "properties": {
                 "title": "Freer Gallery of Art",
                 "ccodes": ["US"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1101,6 +1185,13 @@
                 "title": "E-codices",
                 "ccodes": ["CH"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -1156,6 +1247,13 @@
             "properties": {
                 "title": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
                 "ccodes": ["US"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1238,6 +1336,13 @@
                 "title": "National Archives and Library of Ethiopia",
                 "ccodes": ["ET"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -1304,6 +1409,13 @@
                 "title": "Istifanos Monastery",
                 "ccodes": ["ET"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -1365,6 +1477,13 @@
             "properties": {
                 "title": "Speyer Cathedral",
                 "ccodes": ["DE"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1431,6 +1550,13 @@
             "properties": {
                 "title": "Historical Museum of the Palatinate",
                 "ccodes": ["DE"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1502,6 +1628,13 @@
                 "title": "Uppsala University Library",
                 "ccodes": ["SE"]
             },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
+            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
@@ -1567,6 +1700,13 @@
             "properties": {
                 "title": "MARK16",
                 "ccodes": ["CH"]
+            },
+            "when": {
+                "timespans": [
+                    {
+                        "start": {"earliest": "1000", "latest": "1099"}
+                    }
+                ]
             },
             "geometry": {
                 "type": "GeometryCollection",
