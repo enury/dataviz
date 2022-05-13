@@ -56,11 +56,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "http://www.geonames.org/350564/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://pleiades.stoa.org/places/746826"
                 }
             ]
@@ -190,15 +190,15 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://www.geonames.org/7910626"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/156622926/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/names/n80040307.html"
                 }
             ]
@@ -261,15 +261,15 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://www.geonames.org/6697883"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/135605580/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n82059101"
                 }
             ]
@@ -332,15 +332,15 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://www.geonames.org/6452876"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/137156173/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/no95028191"
                 }
             ]
@@ -399,11 +399,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/129788129/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n80020306"
                 }
             ]
@@ -462,15 +462,15 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://www.geonames.org/6944331"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/121814978/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n81139951"
                 }
             ]
@@ -529,11 +529,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/140790558/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n81070793"
                 }
             ]
@@ -592,11 +592,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/128078186/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n2010006076"
                 }
             ]
@@ -655,11 +655,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/127596636/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n80050107"
                 }
             ]
@@ -718,11 +718,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/159382949/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n85007446"
                 }
             ]
@@ -781,11 +781,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/159382949/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n85007446"
                 }
             ]
@@ -897,11 +897,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/130545939/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/no2005044796"
                 }
             ]
@@ -960,11 +960,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/143340671/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/no00074874"
                 }
             ]
@@ -1023,7 +1023,7 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://www.geonames.org/334824"
                 }
             ]
@@ -1086,7 +1086,7 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://www.geonames.org/334824"
                 }
             ]
@@ -1149,11 +1149,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/122897337/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n86067531"
                 }
             ]
@@ -1212,11 +1212,11 @@
             ],
             "links": [
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://viaf.org/viaf/139714542/"
                 },
                 {
-                    "type": "closeMatch",
+                    "type": "seeAlso",
                     "identifier": "https://id.loc.gov/authorities/n50060405"
                 }
             ]
