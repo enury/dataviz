@@ -1043,8 +1043,6 @@
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
                 ],
-                "label": "11th century CE",
-                "label": "11th century CE",
                 "label": "11th century CE"
             },
             "geometry": {
@@ -1108,7 +1106,6 @@
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
                 ],
-                "label": "11th century CE",
                 "label": "11th century CE"
             },
             "geometry": {
