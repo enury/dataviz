@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "@context": "https://raw.githubusercontent.com/LinkedPasts/linked-places/master/linkedplaces-context-v1.1.jsonld",
+    "@context": "https://docuracy.github.io/Locolligo/contexts/linkedplaces.jsonld",
     "features": [
         {
             "@id": "https://www.wikidata.org/wiki/Q185362",
