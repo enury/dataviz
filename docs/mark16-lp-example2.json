@@ -260,8 +260,19 @@
             },
             "descriptions": [
                 {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
+                    "value": "f. 230v, f.231r and f.231v",
+                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y",
+                    "relationName": "physical and digital",
+                    "label": "GA 888",
+                    "content": "f. 230v, f.231r and f.231v",
+                    "lang": "grc",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"earliest": "1300", "latest": "1399"}
+                            }
+                        ]
+                    }
                 }
             ],
             "names": [
@@ -293,23 +304,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/names/n80040307.html"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/f936e1cc",
-                    "label": "GA 888",
-                    "content": "f. 230v, f.231r and f.231v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"earliest": "1300", "latest": "1399"}
-                            }
-                        ]
-                    }
                 }
             ]
         },
