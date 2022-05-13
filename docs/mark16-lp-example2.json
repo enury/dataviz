@@ -38,7 +38,12 @@
             "names": [
                 {
                     "toponym": "Saint Catherine's Monastery, Mount Sinai",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -95,7 +100,12 @@
             "names": [
                 {
                     "toponym": "Basel University Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 },
                 {
                     "toponym": "BUniversitätsbibliothek Basel",
@@ -156,7 +166,12 @@
             "names": [
                 {
                     "toponym": "Biblioteca Nazionale Marciana",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 },
                 {
                     "toponym": "Biblioteca nazionale Marciana",
@@ -221,7 +236,12 @@
             "names": [
                 {
                     "toponym": "National University Library of Turin",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 },
                 {
                     "toponym": "Biblioteca nazionale universitaria di Torino",
@@ -286,7 +306,12 @@
             "names": [
                 {
                     "toponym": "Bibliothèque nationale de France",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 },
                 {
                     "toponym": "Bibliothèque nationale de France",
@@ -351,7 +376,12 @@
             "names": [
                 {
                     "toponym": "Bodleian Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -408,7 +438,12 @@
             "names": [
                 {
                     "toponym": "British Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -469,7 +504,12 @@
             "names": [
                 {
                     "toponym": "Cambridge University Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -526,7 +566,12 @@
             "names": [
                 {
                     "toponym": "Chaldean Antonian Order Library, St. Hormizd Monastery (Alqosh, Irak)",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -583,7 +628,12 @@
             "names": [
                 {
                     "toponym": "Chester Beatty Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -640,7 +690,12 @@
             "names": [
                 {
                     "toponym": "Duke University Libraries",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -697,7 +752,12 @@
             "names": [
                 {
                     "toponym": "Freer Gallery of Art",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -754,7 +814,12 @@
             "names": [
                 {
                     "toponym": "E-codices",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -801,7 +866,12 @@
             "names": [
                 {
                     "toponym": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -858,7 +928,12 @@
             "names": [
                 {
                     "toponym": "National Archives and Library of Ethiopia",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -915,7 +990,12 @@
             "names": [
                 {
                     "toponym": "Istifanos Monastery",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -968,7 +1048,12 @@
             "names": [
                 {
                     "toponym": "Speyer Cathedral",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 },
                 {
                     "toponym": "Speyer Dom",
@@ -1025,7 +1110,12 @@
             "names": [
                 {
                     "toponym": "Historical Museum of the Palatinate",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 },
                 {
                     "toponym": "Historisches Museum der Pfalz",
@@ -1086,7 +1176,12 @@
             "names": [
                 {
                     "toponym": "Uppsala University Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
@@ -1143,7 +1238,12 @@
             "names": [
                 {
                     "toponym": "MARK16",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [{
+      "label": "Hookland Travels (1635)",
+      "year": 1635,
+      "@id":"http://somearchive.org/hookland_travels"
+    }]
                 }
             ],
             "types": [
