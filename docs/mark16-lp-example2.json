@@ -157,8 +157,7 @@
                     "label": "GA 888",
                     "content": "f. 230v, f.231r and f.231v",
                     "lang": "grc",
-                    "
-                    ": {
+                    "when": {
                         "timespans": [
                             {
                                 "start": {"earliest": "1300", "latest": "1399"}
