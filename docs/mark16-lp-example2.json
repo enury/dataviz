@@ -10,21 +10,14 @@
                 "title": "Saint Catherine Monastery",
                 "ccodes": ["EG"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            33.975561,28.555831
+                            33.975561,
+                            28.555831
                         ]
                     }
                 ]
@@ -40,27 +33,40 @@
                 {
                     "toponym": "Saint Catherine's Monastery, Mount Sinai",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "http://www.geonames.org/350564/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://pleiades.stoa.org/places/746826"
                 }
             ]
@@ -73,21 +79,14 @@
                 "title": "Universitätsbibliothek Basel",
                 "ccodes": ["CH"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            7.58082, 47.55977
+                            7.58082,
+                            47.55977
                         ]
                     }
                 ]
@@ -103,11 +102,13 @@
                 {
                     "toponym": "Basel University Library",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "BUniversitätsbibliothek Basel",
@@ -118,7 +119,18 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ]
         },
@@ -130,21 +142,14 @@
                 "title": "Biblioteca Nazionale Marciana",
                 "ccodes": ["IT"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            12.339167, 45.433333
+                            12.339167,
+                            45.433333
                         ]
                     }
                 ]
@@ -153,14 +158,14 @@
                 {
                     "value": "f. 230v, f.231r and f.231v",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y",
-                    "relationName": "physical and digital",
                     "label": "GA 888",
-                    "content": "f. 230v, f.231r and f.231v",
-                    "lang": "grc",
                     "when": {
                         "timespans": [
                             {
-                                "start": {"earliest": "1300", "latest": "1399"}
+                                "start": {
+                                    "earliest": "1300",
+                                    "latest": "1399"
+                                }
                             }
                         ]
                     }
@@ -170,11 +175,13 @@
                 {
                     "toponym": "Biblioteca Nazionale Marciana",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Biblioteca nazionale Marciana",
@@ -185,20 +192,31 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://www.geonames.org/7910626"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/156622926/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/names/n80040307.html"
                 }
             ]
@@ -211,21 +229,14 @@
                 "title": "Biblioteca nazionale universitaria di Torino",
                 "ccodes": ["IT"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            7.68633, 45.068684
+                            7.68633,
+                            45.068684
                         ]
                     }
                 ]
@@ -241,11 +252,13 @@
                 {
                     "toponym": "National University Library of Turin",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Biblioteca nazionale universitaria di Torino",
@@ -256,20 +269,31 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://www.geonames.org/6697883"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/135605580/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n82059101"
                 }
             ]
@@ -282,21 +306,14 @@
                 "title": "Bibliothèque nationale de France",
                 "ccodes": ["FR"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            2.375833, 48.833611
+                            2.375833,
+                            48.833611
                         ]
                     }
                 ]
@@ -312,11 +329,13 @@
                 {
                     "toponym": "Bibliothèque nationale de France",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Bibliothèque nationale de France",
@@ -327,20 +346,31 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://www.geonames.org/6452876"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/137156173/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/no95028191"
                 }
             ]
@@ -353,21 +383,14 @@
                 "title": "Bodleian Library",
                 "ccodes": ["UK"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            -1.255139, 51.753972
+                            -1.255139,
+                            51.753972
                         ]
                     }
                 ]
@@ -383,27 +406,40 @@
                 {
                     "toponym": "Bodleian Library",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300343396",
                     "label": "research libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/129788129/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n80020306"
                 }
             ]
@@ -416,21 +452,14 @@
                 "title": "British Library",
                 "ccodes": ["UK"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            -0.126944, 51.529444
+                            -0.126944,
+                            51.529444
                         ]
                     }
                 ]
@@ -446,31 +475,44 @@
                 {
                     "toponym": "British Library",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://www.geonames.org/6944331"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/121814978/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n81139951"
                 }
             ]
@@ -483,21 +525,14 @@
                 "title": "Cambridge University Library",
                 "ccodes": ["UK"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            0.108056, 52.205167
+                            0.108056,
+                            52.205167
                         ]
                     }
                 ]
@@ -513,27 +548,40 @@
                 {
                     "toponym": "Cambridge University Library",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/140790558/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n81070793"
                 }
             ]
@@ -546,21 +594,14 @@
                 "title": "Rabban Hormizd Monastery",
                 "ccodes": ["IQ"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            43.114444, 36.749167
+                            43.114444,
+                            36.749167
                         ]
                     }
                 ]
@@ -576,27 +617,40 @@
                 {
                     "toponym": "Chaldean Antonian Order Library, St. Hormizd Monastery (Alqosh, Irak)",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/128078186/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n2010006076"
                 }
             ]
@@ -609,21 +663,14 @@
                 "title": "Chester Beatty Library",
                 "ccodes": ["IE"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            -6.267, 53.342
+                            -6.267,
+                            53.342
                         ]
                     }
                 ]
@@ -639,27 +686,40 @@
                 {
                     "toponym": "Chester Beatty Library",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/127596636/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n80050107"
                 }
             ]
@@ -672,21 +732,14 @@
                 "title": "Duke University Libraries",
                 "ccodes": ["US"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            -78.938356, 36.003104
+                            -78.938356,
+                            36.003104
                         ]
                     }
                 ]
@@ -702,27 +755,40 @@
                 {
                     "toponym": "Duke University Libraries",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/159382949/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n85007446"
                 }
             ]
@@ -735,21 +801,14 @@
                 "title": "Freer Gallery of Art",
                 "ccodes": ["US"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            -77.026446, 38.887983
+                            -77.026446,
+                            38.887983
                         ]
                     }
                 ]
@@ -765,27 +824,40 @@
                 {
                     "toponym": "Freer Gallery of Art",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300264847",
                     "label": "art museums (buildings)",
-                    "sourceLabel": "art museum"
+                    "sourceLabel": "art museum",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/159382949/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n85007446"
                 }
             ]
@@ -798,21 +870,14 @@
                 "title": "E-codices",
                 "ccodes": ["CH"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            7.15, 46.8
+                            7.15,
+                            46.8
                         ]
                     }
                 ]
@@ -828,18 +893,31 @@
                 {
                     "toponym": "E-codices",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ]
         },
@@ -851,21 +929,14 @@
                 "title": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
                 "ccodes": ["US"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            -94.3925, 45.5815
+                            -94.3925,
+                            45.5815
                         ]
                     }
                 ]
@@ -881,27 +952,40 @@
                 {
                     "toponym": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/130545939/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/no2005044796"
                 }
             ]
@@ -914,21 +998,14 @@
                 "title": "National Archives and Library of Ethiopia",
                 "ccodes": ["ET"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            38.75, 9.01806
+                            38.75,
+                            9.01806
                         ]
                     }
                 ]
@@ -944,27 +1021,40 @@
                 {
                     "toponym": "National Archives and Library of Ethiopia",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/143340671/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/no00074874"
                 }
             ]
@@ -977,21 +1067,14 @@
                 "title": "Istifanos Monastery",
                 "ccodes": ["ET"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            39.6975, 11.3387
+                            39.6975,
+                            11.3387
                         ]
                     }
                 ]
@@ -1007,23 +1090,36 @@
                 {
                     "toponym": "Istifanos Monastery",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://www.geonames.org/334824"
                 }
             ]
@@ -1036,21 +1132,14 @@
                 "title": "Speyer Cathedral",
                 "ccodes": ["DE"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            8.4425, 49.317222
+                            8.4425,
+                            49.317222
                         ]
                     }
                 ]
@@ -1066,11 +1155,13 @@
                 {
                     "toponym": "Speyer Cathedral",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Speyer Dom",
@@ -1086,7 +1177,7 @@
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://www.geonames.org/334824"
                 }
             ]
@@ -1099,21 +1190,14 @@
                 "title": "Historical Museum of the Palatinate",
                 "ccodes": ["DE"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            8.44157, 49.3157
+                            8.44157,
+                            49.3157
                         ]
                     }
                 ]
@@ -1129,11 +1213,13 @@
                 {
                     "toponym": "Historical Museum of the Palatinate",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Historisches Museum der Pfalz",
@@ -1144,16 +1230,27 @@
                 {
                     "identifier": "aat:300312304",
                     "label": "history museums (institutions)",
-                    "sourceLabel": "museum"
+                    "sourceLabel": "museum",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/122897337/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n86067531"
                 }
             ]
@@ -1166,21 +1263,14 @@
                 "title": "Uppsala University Library",
                 "ccodes": ["SE"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            17.6323, 59.8558
+                            17.6323,
+                            59.8558
                         ]
                     }
                 ]
@@ -1196,27 +1286,40 @@
                 {
                     "toponym": "Uppsala University Library",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ],
             "links": [
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://viaf.org/viaf/139714542/"
                 },
                 {
-                    "type": "seeAlso",
+                    "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n50060405"
                 }
             ]
@@ -1229,21 +1332,14 @@
                 "title": "MARK16",
                 "ccodes": ["CH"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {"earliest": "1000", "latest": "1099"}
-                    }
-                ],
-                "label": "11th century CE"
-            },
             "geometry": {
                 "type": "GeometryCollection",
                 "geometries": [
                     {
                         "type": "Point",
                         "coordinates": [
-                            6.575103, 46.52226
+                            6.575103,
+                            46.52226
                         ]
                     }
                 ]
@@ -1259,18 +1355,31 @@
                 {
                     "toponym": "MARK16",
                     "lang": "en",
-                    "citations": [{
-      "label": "Hookland Travels (1635)",
-      "year": 1635,
-      "@id":"http://somearchive.org/hookland_travels"
-    }]
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
                 {
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1000",
+                                    "latest": "1099"
+                                }
+                            }
+                        ],
+                        "label": "11th century CE"
+                    }
                 }
             ]
         }
