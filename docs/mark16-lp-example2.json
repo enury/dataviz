@@ -15,7 +15,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -77,7 +78,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -133,7 +135,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -154,7 +157,8 @@
                     "label": "GA 888",
                     "content": "f. 230v, f.231r and f.231v",
                     "lang": "grc",
-                    "when": {
+                    "
+                    ": {
                         "timespans": [
                             {
                                 "start": {"earliest": "1300", "latest": "1399"}
@@ -213,7 +217,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -283,7 +288,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -353,7 +359,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -415,7 +422,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -481,7 +489,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -543,7 +552,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -605,7 +615,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -667,7 +678,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -729,7 +741,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -791,7 +804,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -843,7 +857,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -905,7 +920,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -967,7 +983,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1025,7 +1042,10 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE",
+                "label": "11th century CE",
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1087,7 +1107,9 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE",
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1153,7 +1175,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
@@ -1215,7 +1238,8 @@
                     {
                         "start": {"earliest": "1000", "latest": "1099"}
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "GeometryCollection",
