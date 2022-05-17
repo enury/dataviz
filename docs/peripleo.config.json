@@ -64,6 +64,13 @@
       ]
     },
     {
+      "name":"Places",
+      "path":[
+        "properties",
+        "title"
+      ]
+    },
+    {
       "name":"Location",
       "path":[
         "relations",
