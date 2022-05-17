@@ -10,16 +10,6 @@
                 "title": "Saint Catherine Monastery",
                 "ccodes": ["EG"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -154,16 +144,6 @@
                 "title": "Universitätsbibliothek Basel",
                 "ccodes": ["CH"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -259,16 +239,6 @@
                 "title": "Biblioteca Nazionale Marciana",
                 "ccodes": ["IT"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -342,16 +312,6 @@
                 "title": "Biblioteca nazionale universitaria di Torino",
                 "ccodes": ["IT"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -424,16 +384,6 @@
             "properties": {
                 "title": "Bibliothèque nationale de France",
                 "ccodes": ["FR"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
             },
             "geometry": {
                 "type": "Point",
@@ -637,16 +587,6 @@
                 "title": "Bodleian Library",
                 "ccodes": ["UK"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -711,16 +651,6 @@
             "properties": {
                 "title": "British Library",
                 "ccodes": ["UK"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
             },
             "geometry": {
                 "type": "Point",
@@ -852,16 +782,6 @@
                 "title": "Cambridge University Library",
                 "ccodes": ["UK"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -930,16 +850,6 @@
                 "title": "Rabban Hormizd Monastery",
                 "ccodes": ["IQ"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1004,16 +914,6 @@
             "properties": {
                 "title": "Chester Beatty Library",
                 "ccodes": ["IE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1110,16 +1010,6 @@
                 "title": "Duke University Libraries",
                 "ccodes": ["US"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1181,16 +1071,6 @@
             "properties": {
                 "title": "Freer Gallery of Art",
                 "ccodes": ["US"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1257,16 +1137,6 @@
                 "title": "E-codices",
                 "ccodes": ["CH"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1318,16 +1188,6 @@
             "properties": {
                 "title": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
                 "ccodes": ["US"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1412,16 +1272,6 @@
                 "title": "National Archives and Library of Ethiopia",
                 "ccodes": ["ET"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1487,16 +1337,6 @@
                 "title": "Istifanos Monastery",
                 "ccodes": ["ET"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1557,16 +1397,6 @@
             "properties": {
                 "title": "Speyer Cathedral",
                 "ccodes": ["DE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1632,16 +1462,6 @@
             "properties": {
                 "title": "Historical Museum of the Palatinate",
                 "ccodes": ["DE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1712,16 +1532,6 @@
                 "title": "Uppsala University Library",
                 "ccodes": ["SE"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1787,16 +1597,6 @@
                 "title": "MARK16",
                 "ccodes": ["CH"]
             },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ]
-            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1804,12 +1604,6 @@
                     46.52226
                 ]
             },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
             "names": [
                 {
                     "toponym": "MARK16",
