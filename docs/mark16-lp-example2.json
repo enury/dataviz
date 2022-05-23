@@ -12,7 +12,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -38,7 +41,15 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -151,7 +162,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -181,7 +195,15 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [],
@@ -252,7 +274,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -282,7 +307,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -330,7 +363,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -360,7 +396,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -408,7 +452,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -438,7 +485,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -615,7 +670,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -641,7 +699,15 @@
                 {
                     "identifier": "aat:300343396",
                     "label": "research libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -685,7 +751,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -711,7 +780,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -820,7 +897,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -846,7 +926,15 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -893,7 +981,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -919,7 +1010,15 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -963,7 +1062,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -989,7 +1091,15 @@
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1063,7 +1173,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1089,7 +1202,15 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1130,7 +1251,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1156,7 +1280,15 @@
                 {
                     "identifier": "aat:300264847",
                     "label": "art museums (buildings)",
-                    "sourceLabel": "art museum"
+                    "sourceLabel": "art museum",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1200,7 +1332,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1226,7 +1361,15 @@
                 {
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "relations": [
@@ -1257,7 +1400,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1283,7 +1429,15 @@
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1345,7 +1499,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1371,7 +1528,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1415,7 +1580,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1441,7 +1609,15 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1481,7 +1657,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1511,7 +1690,15 @@
                 {
                     "identifier": "aat:300007501",
                     "label": "cathedrals (works by context)",
-                    "sourceLabel": "cathedral"
+                    "sourceLabel": "cathedral",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1551,7 +1738,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1581,7 +1771,15 @@
                 {
                     "identifier": "aat:300312304",
                     "label": "history museums (institutions)",
-                    "sourceLabel": "museum"
+                    "sourceLabel": "museum",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1625,7 +1823,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1651,7 +1852,15 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1695,7 +1904,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1721,7 +1933,15 @@
                 {
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "relations": [
@@ -1774,7 +1994,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1804,7 +2027,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1881,7 +2112,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1911,7 +2145,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -1951,7 +2193,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -1981,7 +2226,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2045,7 +2298,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2071,7 +2327,15 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2116,7 +2380,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2146,7 +2413,15 @@
                 {
                     "identifier": "aat:300312242",
                     "label": "archives (institutions)",
-                    "sourceLabel": "archive"
+                    "sourceLabel": "archive",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2187,7 +2462,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2217,7 +2495,15 @@
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2275,7 +2561,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2301,7 +2590,15 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2346,7 +2643,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2372,7 +2672,15 @@
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2414,7 +2722,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2444,7 +2755,15 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2489,7 +2808,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2519,7 +2841,15 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2583,7 +2913,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2609,7 +2942,15 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "sourceLabel": "monastery",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2651,7 +2992,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2681,7 +3025,15 @@
                 {
                     "identifier": "aat:300312304",
                     "label": "history museums (institutions)",
-                    "sourceLabel": "museum"
+                    "sourceLabel": "museum",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2726,7 +3078,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2752,7 +3107,15 @@
                 {
                     "identifier": "aat:300312321",
                     "label": "national museums (institutions)",
-                    "sourceLabel": "museum"
+                    "sourceLabel": "museum",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2794,7 +3157,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2820,7 +3186,15 @@
                 {
                     "identifier": "aat:300007466",
                     "label": "digital libraries",
-                    "sourceLabel": "churches (buildings)"
+                    "sourceLabel": "churches (buildings)",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2865,7 +3239,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2891,7 +3268,15 @@
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library"
+                    "sourceLabel": "library",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
@@ -2955,7 +3340,10 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022, "latest": 2022}
+                    "start": {
+                        "earliest": 2022,
+                        "latest": 2022
+                    }
                 }
             },
             "geometry": {
@@ -2981,7 +3369,15 @@
                 {
                     "identifier": "aat:300410327",
                     "label": "banks (institutions)",
-                    "sourceLabel": "bank"
+                    "sourceLabel": "bank",
+                    "when": {
+                        "timespans": {
+                            "start": {
+                                "earliest": 2022,
+                                "latest": 2022
+                            }
+                        }
+                    }
                 }
             ],
             "links": [
