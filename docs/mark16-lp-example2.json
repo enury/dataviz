@@ -1,1296 +1,207 @@
 {
+    "@id": "https://w3id.org/locolligo/VCH-Places",
     "type": "FeatureCollection",
-    "@context": "https://docuracy.github.io/Locolligo/contexts/linkedplaces.jsonld",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
     "features": [
         {
-            "@id": "https://www.wikidata.org/wiki/Q185362",
-            "uuid": "Q185362",
             "type": "Feature",
+            "@id": "https://w3id.org/locolligo/VCH-Places/1",
+            "uuid": 1,
             "properties": {
-                "title": "Saint Catherine Monastery",
-                "ccodes": ["EG"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
+                "title": "Watford (St. Mary)",
+                "county": "Hertfordshire",
+                "parish": "Watford",
+                "KainOliverID": "16132A",
+                "category": "MT",
+                "population": 5989,
+                "schools": ["free"]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.975561,
-                    28.555831
-                ]
+                    -0.395326,
+                    51.656318
+                ],
+                "certainty": "certain"
             },
             "descriptions": [
                 {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Saint Catherine's Monastery, Mount Sinai",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300000641",
-                    "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
+                    "value": "<head>Watford (St. Mary)<\/head><para id=\"p1\">WATFORD (<emph type=\"i\">St. Mary<\/emph>), a market-town and parish, and the head of a union, in the hundred of Cashio, or liberty of St. Alban's, county of Hertford; containing, with the hamlets of Cashio, Leavesden, and Oxhey, 5989 inhabitants, of whom 3697 are in the town, 20 miles (W. S. W.) from Hertford, and 15 (N. W.) from London. This place derives its name from the Watlingstreet, which passes in the vicinity, and from a ford here over the river Colne, to which latter its origin also is attributed. It consists of one street about a mile in length, irregularly built, and is supplied with water by a forcing pump, erected by subscription. The manufacture of straw-plat, and three mills for throwing silk, employ a considerable number of persons; there are eight malt-kilns, and two extensive breweries. By means of the Grand Junction cana...",
+                    "source": "http://www.british-history.ac.uk/report.aspx?compid=51382.xml#h3-0001"
                 }
             ],
             "links": [
                 {
-                    "type": "closeMatch",
-                    "identifier": "http://www.geonames.org/350564/"
+                    "type": "seeAlso",
+                    "identifier": "http://www.british-history.ac.uk/report.aspx?compid=43307.xml"
                 },
                 {
-                    "type": "closeMatch",
-                    "identifier": "https://pleiades.stoa.org/places/746826"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q81164649",
-            "uuid": "Q81164649",
-            "type": "Feature",
-            "properties": {
-                "title": "Universitätsbibliothek Basel",
-                "ccodes": ["CH"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.58082,
-                    47.55977
-                ]
-            },
-            "descriptions": [
+                    "type": "seeAlso",
+                    "identifier": "http://www.british-history.ac.uk/report.aspx?compid=43308.xml"
+                },
                 {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
+                    "type": "seeAlso",
+                    "identifier": "http://www.british-history.ac.uk/report.aspx?compid=43309.xml"
                 }
             ],
             "names": [
                 {
-                    "toponym": "Basel University Library",
-                    "lang": "en",
+                    "toponym": "Watford",
                     "citations": [
                         {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
+                            "label": "Kain, R.J.P., Oliver, R.R. (2001). Historic Parishes of England and Wales : an Electronic Map of Boundaries before 1850 with a Gazetteer and Metadata. [data collection]. UK Data Service.",
+                            "@id": "DOI:10.5255/UKDA-SN-4348-1"
                         }
                     ]
-                },
-                {
-                    "toponym": "BUniversitätsbibliothek Basel",
-                    "lang": "de"
                 }
             ],
             "types": [
                 {
-                    "identifier": "aat:300343392",
-                    "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q578460",
-            "uuid": "Q578460",
-            "type": "Feature",
-            "properties": {
-                "title": "Biblioteca Nazionale Marciana",
-                "ccodes": ["IT"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.339167,
-                    45.433333
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "f. 230v, f.231r and f.231v",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y",
-                    "label": "GA 888",
+                    "identifier": "https://www.wikidata.org/wiki/Q7884789",
+                    "label": "toponym",
                     "when": {
                         "timespans": [
                             {
-                                "start": {
-                                    "earliest": "1300",
-                                    "latest": "1399"
-                                }
+                                "start": {"latest": "1848"}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "identifier": "https://www.wikidata.org/wiki/Q18511725",
+                    "label": "market town",
+                    "sourceLabels": [
+                        {"label": "market-town"}
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"latest": "1848"}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "identifier": "https://www.wikidata.org/wiki/Q102496",
+                    "label": "parish",
+                    "sourceLabels": [
+                        {"label": "parish"}
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"latest": "1848"}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "identifier": "https://www.wikidata.org/wiki/Q3397866",
+                    "label": "poor law union",
+                    "sourceLabels": [
+                        {"label": "union"}
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"latest": "1848"}
+                            }
+                        ]
+                    }
+                },
+                {
+                    "identifier": "https://www.wikidata.org/wiki/Q109258987",
+                    "label": "railway node",
+                    "sourceLabels": [
+                        {"label": "railway"}
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"latest": "1848"}
                             }
                         ]
                     }
                 }
-            ],
-            "names": [
-                {
-                    "toponym": "Biblioteca Nazionale Marciana",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                },
-                {
-                    "toponym": "Biblioteca nazionale Marciana",
-                    "lang": "it"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://www.geonames.org/7910626"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/156622926/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/names/n80040307.html"
-                }
             ]
         },
         {
-            "@id": "https://www.wikidata.org/wiki/Q2201144",
-            "uuid": "Q2201144",
             "type": "Feature",
+            "@id": "https://w3id.org/locolligo/VCH-Places/2",
+            "uuid": 2,
             "properties": {
-                "title": "Biblioteca nazionale universitaria di Torino",
-                "ccodes": ["IT"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
+                "title": "Watford (St. Peter and St. Paul)",
+                "county": "Northamptonshire",
+                "parish": "Watford",
+                "KainOliverID": 26184,
+                "category": "P",
+                "population": 415,
+                "schools": ["national"]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.68633,
-                    45.068684
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "National University Library of Turin",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                },
-                {
-                    "toponym": "Biblioteca nazionale universitaria di Torino",
-                    "lang": "it"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://www.geonames.org/6697883"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/135605580/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n82059101"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q193563",
-            "uuid": "Q193563",
-            "type": "Feature",
-            "properties": {
-                "title": "Bibliothèque nationale de France",
-                "ccodes": ["FR"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
+                    -1.109398,
+                    52.321142
                 ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.375833,
-                    48.833611
-                ]
+                "certainty": "certain"
             },
             "descriptions": [
                 {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
+                    "value": "<head>Watford (St. Peter and St. Paul)<\/head><para id=\"p3\">WATFORD (<emph type=\"i\">St. Peter and St. Paul<\/emph>), a parish, in the union of Daventry, hundred of Guilsborotjgh, S. division of the county of Northampton, 4¾ miles (N. N. E.) from Daventry; containing 415 inhabitants. It comprises 336l<emph type=\"i\">a<\/emph>. 2<emph type=\"i\">r<\/emph>. 20<emph type=\"i\">p<\/emph>., of which two-thirds are pasture, and the remainder arable; the soil is a strong loam, and the surface in general hilly. The Union canal passes through the parish; on the west is the ancient Watling-street; and the Crick station on the London and Birmingham railway is within a quarter of a mile from the village. The living is a vicarage, valued in the king's books at £11. 7. 8½., and in the patronage of the Crown; net income, £296, with a glebe-house, built in 1841; impropriator, Lord Henley. The tithes were comm...",
+                    "source": "http://www.british-history.ac.uk/report.aspx?compid=51382.xml#h3-0002"
                 }
             ],
             "names": [
                 {
-                    "toponym": "Bibliothèque nationale de France",
-                    "lang": "en",
+                    "toponym": "Watford",
                     "citations": [
                         {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
+                            "label": "Kain, R.J.P., Oliver, R.R. (2001). Historic Parishes of England and Wales : an Electronic Map of Boundaries before 1850 with a Gazetteer and Metadata. [data collection]. UK Data Service.",
+                            "@id": "DOI:10.5255/UKDA-SN-4348-1"
                         }
                     ]
-                },
-                {
-                    "toponym": "Bibliothèque nationale de France",
-                    "lang": "fr"
                 }
             ],
             "types": [
                 {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://www.geonames.org/6452876"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/137156173/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/no95028191"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q82133",
-            "uuid": "Q82133",
-            "type": "Feature",
-            "properties": {
-                "title": "Bodleian Library",
-                "ccodes": ["UK"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
+                    "identifier": "https://www.wikidata.org/wiki/Q7884789",
+                    "label": "toponym",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"latest": "1848"}
+                            }
+                        ]
                     }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.255139,
-                    51.753972
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Bodleian Library",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343396",
-                    "label": "research libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/129788129/"
                 },
                 {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n80020306"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q23308",
-            "uuid": "Q23308",
-            "type": "Feature",
-            "properties": {
-                "title": "British Library",
-                "ccodes": ["UK"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
+                    "identifier": "https://www.wikidata.org/wiki/Q102496",
+                    "label": "parish",
+                    "sourceLabels": [
+                        {"label": "parish"}
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"latest": "1848"}
+                            }
+                        ]
                     }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.126944,
-                    51.529444
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "British Library",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://www.geonames.org/6944331"
                 },
                 {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/121814978/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n81139951"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1028334",
-            "uuid": "Q1028334",
-            "type": "Feature",
-            "properties": {
-                "title": "Cambridge University Library",
-                "ccodes": ["UK"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
+                    "identifier": "https://www.wikidata.org/wiki/Q109258987",
+                    "label": "railway node",
+                    "sourceLabels": [
+                        {"label": "railway"}
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"latest": "1848"}
+                            }
+                        ]
                     }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.108056,
-                    52.205167
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Cambridge University Library",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343392",
-                    "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/140790558/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n81070793"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1475704",
-            "uuid": "Q1475704",
-            "type": "Feature",
-            "properties": {
-                "title": "Rabban Hormizd Monastery",
-                "ccodes": ["IQ"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    43.114444,
-                    36.749167
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Chaldean Antonian Order Library, St. Hormizd Monastery (Alqosh, Irak)",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300000641",
-                    "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/128078186/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n2010006076"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q391976",
-            "uuid": "Q391976",
-            "type": "Feature",
-            "properties": {
-                "title": "Chester Beatty Library",
-                "ccodes": ["IE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.267,
-                    53.342
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Chester Beatty Library",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312241",
-                    "label": "libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/127596636/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n80050107"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q5312898",
-            "uuid": "Q5312898",
-            "type": "Feature",
-            "properties": {
-                "title": "Duke University Libraries",
-                "ccodes": ["US"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -78.938356,
-                    36.003104
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Duke University Libraries",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343392",
-                    "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/159382949/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n85007446"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1075126",
-            "uuid": "Q1075126",
-            "type": "Feature",
-            "properties": {
-                "title": "Freer Gallery of Art",
-                "ccodes": ["US"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.026446,
-                    38.887983
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Freer Gallery of Art",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300264847",
-                    "label": "art museums (buildings)",
-                    "sourceLabel": "art museum"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/159382949/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n85007446"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1273306",
-            "uuid": "Q1273306",
-            "type": "Feature",
-            "properties": {
-                "title": "E-codices",
-                "ccodes": ["CH"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.15,
-                    46.8
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "E-codices",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300391336",
-                    "label": "digital libraries",
-                    "sourceLabel": "library"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q5762205",
-            "uuid": "Q5762205",
-            "type": "Feature",
-            "properties": {
-                "title": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
-                "ccodes": ["US"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.3925,
-                    45.5815
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312241",
-                    "label": "libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/130545939/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/no2005044796"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q2567785",
-            "uuid": "Q2567785",
-            "type": "Feature",
-            "properties": {
-                "title": "National Archives and Library of Ethiopia",
-                "ccodes": ["ET"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.75,
-                    9.01806
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "National Archives and Library of Ethiopia",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/143340671/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/no00074874"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q6088902",
-            "uuid": "Q6088902",
-            "type": "Feature",
-            "properties": {
-                "title": "Istifanos Monastery",
-                "ccodes": ["ET"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.6975,
-                    11.3387
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Istifanos Monastery",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300000641",
-                    "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://www.geonames.org/334824"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q22720",
-            "uuid": "Q22720",
-            "type": "Feature",
-            "properties": {
-                "title": "Speyer Cathedral",
-                "ccodes": ["DE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.4425,
-                    49.317222
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Speyer Cathedral",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                },
-                {
-                    "toponym": "Speyer Dom",
-                    "lang": "de"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300007501",
-                    "label": "cathedrals (works by context)",
-                    "sourceLabel": "cathedral"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://www.geonames.org/334824"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1325163",
-            "uuid": "Q1325163",
-            "type": "Feature",
-            "properties": {
-                "title": "Historical Museum of the Palatinate",
-                "ccodes": ["DE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.44157,
-                    49.3157
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Historical Museum of the Palatinate",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                },
-                {
-                    "toponym": "Historisches Museum der Pfalz",
-                    "lang": "de"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312304",
-                    "label": "history museums (institutions)",
-                    "sourceLabel": "museum"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/122897337/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n86067531"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q2901382",
-            "uuid": "Q2901382",
-            "type": "Feature",
-            "properties": {
-                "title": "Uppsala University Library",
-                "ccodes": ["SE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6323,
-                    59.8558
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Uppsala University Library",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343392",
-                    "label": "academic libraries (institutions)",
-                    "sourceLabel": "library"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/139714542/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n50060405"
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q3152521",
-            "uuid": "Q3152521",
-            "type": "Feature",
-            "properties": {
-                "title": "MARK16",
-                "ccodes": ["CH"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": "1000",
-                            "latest": "1099"
-                        }
-                    }
-                ],
-                "label": "11th century CE"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    6.575103,
-                    46.52226
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "label": "label",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "MARK16",
-                    "lang": "en",
-                    "citations": [
-                        {
-                            "label": "Hookland Travels (1635)",
-                            "year": 1635,
-                            "@id": "http://somearchive.org/hookland_travels"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300391336",
-                    "label": "digital libraries",
-                    "sourceLabel": "library"
                 }
             ]
         }
