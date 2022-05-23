@@ -1645,7 +1645,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "virutal",
+                    "label": "Virtual",
                     "relationTo": "https://doi.org/11280/e55e51a5",
                     "content": "f.94v and f.95r",
                     "title": "GA 2937",
@@ -1842,8 +1842,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    59.9335,
-                    30.335611
+                    30.335611,
+                    59.9335
                 ]
             },
             "descriptions": [
@@ -2625,7 +2625,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Greek Orthodox Church of Alexandria",
-                "ccodes": ["GR"]
+                "ccodes": ["EG"]
             },
             "geometry": {
                 "type": "Point",
