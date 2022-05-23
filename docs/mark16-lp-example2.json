@@ -12,7 +12,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -151,7 +151,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -252,7 +252,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -330,7 +330,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -408,7 +408,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -615,7 +615,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -685,7 +685,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -820,7 +820,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -893,7 +893,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -963,7 +963,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1063,7 +1063,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1130,7 +1130,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1200,7 +1200,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1257,7 +1257,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1345,7 +1345,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1415,7 +1415,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1481,7 +1481,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1551,7 +1551,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1625,7 +1625,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1695,7 +1695,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1774,7 +1774,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1881,7 +1881,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -1951,7 +1951,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2045,7 +2045,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2116,7 +2116,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2187,7 +2187,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2275,7 +2275,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2346,7 +2346,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2414,7 +2414,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2489,7 +2489,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2583,7 +2583,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2651,7 +2651,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2726,7 +2726,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2794,7 +2794,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2865,7 +2865,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
@@ -2955,7 +2955,7 @@
             },
             "when": {
                 "timespans": {
-                    "start": {"earliest": 2022}
+                    "start": {"earliest": 2022, "latest": 2022}
                 }
             },
             "geometry": {
