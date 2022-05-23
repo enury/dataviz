@@ -49,7 +49,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.a46c8kd3",
                     "title": "syS",
                     "content": "f.23v",
@@ -67,7 +67,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/10361034",
                     "title": "GA 1210",
                     "content": "f.104v, f.105r and f.105v",
@@ -85,7 +85,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/8980d2164",
                     "title": "GA 1192",
                     "content": "f.128r, f.128v and f.129r ",
@@ -103,7 +103,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/aed3c04e",
                     "title": "GA 083",
                     "content": "page 70 and page 71",
@@ -121,7 +121,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/9506e5dc",
                     "title": "GA 1230",
                     "content": "f.146v, f.147r, f.147v and f.148r",
@@ -178,7 +178,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.442azp39",
                     "title": "GA 1420",
                     "content": "f. 47r and f. 47v",
@@ -196,7 +196,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.41643ld6",
                     "title": "GA 2",
                     "content": "f.117v, f.118r and f.118v",
@@ -214,7 +214,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/e795e203",
                     "title": "GA 1",
                     "content": "f.220r and f.220v",
@@ -287,7 +287,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/f936e1cc",
                     "title": "GA 888",
                     "content": "f. 230v, f.231r and f.231v",
@@ -360,7 +360,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/d49ec78a",
                     "title": "VL 1",
                     "content": "f.40r, f.40v and f.41r",
@@ -433,7 +433,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.04dbyiri",
                     "title": "sa 474",
                     "content": "f.26hr and f.26hv",
@@ -451,7 +451,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.d3d1coro",
                     "title": "GA 099",
                     "content": "page 161 and page 162",
@@ -472,7 +472,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.7fdcvw5z",
                     "title": "GA 274",
                     "content": "f.103v, f.104r and f.104v",
@@ -490,7 +490,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.540bgjjd",
                     "title": "Eth 2",
                     "content": "f.100v, f.101r, f.101v and f.102r",
@@ -508,7 +508,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/aae91e3f",
                     "title": "GA 579",
                     "content": "f.69v, f.70r and f.70v",
@@ -526,7 +526,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/4242f209",
                     "title": "GA 019",
                     "content": "f.112v, f.113r, f.113v and f.114r",
@@ -544,7 +544,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/fd73c95e",
                     "title": "GA 04",
                     "content": "f.151v and f.148r",
@@ -562,7 +562,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/0eb228ed",
                     "title": "GA 304",
                     "content": "f.240r, f.240v and f.241r",
@@ -627,7 +627,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.25fcevj8",
                     "title": "bo 2",
                     "content": "f.193v, f.194r, f.194v, f.195r, f.195v and f.196r",
@@ -696,7 +696,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.23b72o82",
                     "title": "bo 13",
                     "content": "f.212r, f.212v, f.213r, f.213v, f.214r",
@@ -714,7 +714,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.2dfa3k8i",
                     "title": "syC",
                     "content": "f.39r",
@@ -732,7 +732,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.f87asw9i",
                     "title": "Eth 1",
                     "content": "f.68r, f.68v and f.69r",
@@ -750,14 +750,14 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/0091fbae",
                     "title": "GA 02",
                     "lang": "grc"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/97f4cc8a",
                     "title": "GA 01",
                     "content": "f. 227v and f. 228r",
@@ -822,7 +822,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.5508o345",
                     "title": "GA 05",
                     "content": "f.346v, f.347r, f.347v, f.348r and f.348v",
@@ -890,7 +890,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.b93c5jf3",
                     "title": "syH6",
                     "content": "f.98r and f.98v",
@@ -955,7 +955,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.cfac1n0c",
                     "title": "GA 2604",
                     "content": "f.176v, f.177r, f.177v and f.178r",
@@ -973,7 +973,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.69c54gki",
                     "title": "arm 252",
                     "content": "f.120v and f.121r",
@@ -988,7 +988,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.f3f87nzv",
                     "title": "syH5",
                     "content": "f.113v, f.114r and f.114v",
@@ -1050,7 +1050,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.602289z8",
                     "title": "sa 366",
                     "content": "f.814r and f.814v (top fragment)",
@@ -1112,7 +1112,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.4ffaz7d0",
                     "title": "GA 032",
                     "content": "page 369, page 370, page 371 and page 372",
@@ -1167,7 +1167,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "virtual",
+                    "label": "virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.ba7e19yf",
                     "title": "arb 3",
                     "content": "page 115 and page 116",
@@ -1229,7 +1229,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "virtual",
+                    "label": "virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.daba634n",
                     "title": "Eth 3",
                     "content": "f. 179r, f. 179v, f. 180r and f. 180v",
@@ -1247,7 +1247,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "virtual",
+                    "label": "virtual",
                     "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
                     "title": "Eth 4",
                     "content": "f.168v, f.169r, f.169v and f. 170r",
@@ -1312,7 +1312,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical",
+                    "label": "physical",
                     "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
                     "title": "Eth 4",
                     "content": "f.168v, f.169r, f.169v and f. 170r",
@@ -1373,7 +1373,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical",
+                    "label": "physical",
                     "relationTo": "https://doi.org/10.34847/nkl.daba634n",
                     "title": "Eth 3",
                     "content": "f. 179r, f. 179v, f. 180r and f. 180v",
@@ -1438,7 +1438,7 @@
             "relations": [
                 {
                     "relationType": "wd:P1830",
-                    "label2": "ownership",
+                    "label": "ownership",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.188v",
                     "title": "Got 1",
@@ -1507,7 +1507,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical",
+                    "label": "physical",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.188v",
                     "title": "Got 1",
@@ -1572,7 +1572,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.187r, f.187v, f.188r",
                     "title": "Got 1",
@@ -1627,7 +1627,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "virtual",
+                    "label": "virtual",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.188v",
                     "title": "Got 1",
@@ -1645,7 +1645,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "virutal",
+                    "label": "virutal",
                     "relationTo": "https://doi.org/11280/e55e51a5",
                     "content": "f.94v and f.95r",
                     "title": "GA 2937",
@@ -1715,7 +1715,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/1d77ee0b",
                     "content": "page 1303",
                     "title": "GA 03",
@@ -1733,7 +1733,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.0eedelvl",
                     "content": "f.80r and f.80v",
                     "title": "syH4",
@@ -1748,7 +1748,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.0eedelvl",
                     "content": "f.74v",
                     "title": "arb 2",
@@ -1813,7 +1813,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.eecb9te7",
                     "content": "f.177v, f.178r, f.178v, f.179r and f.179v",
                     "title": "GA 1422",
@@ -1882,7 +1882,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.cc57xr94",
                     "content": "f.128r and f.128v",
                     "title": "Slav 1",
@@ -1901,7 +1901,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.5fac11f0",
                     "content": "f.4r, f.4v and f.5r",
                     "title": "fa 32",
@@ -1967,7 +1967,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.cb56206p",
                     "content": "f.104v, f.105r and f.105v",
                     "title": "GA 800",
@@ -2033,7 +2033,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.56c08668",
                     "content": "f.633 and f.634",
                     "title": "VL 3",
@@ -2103,7 +2103,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "virtual",
+                    "label": "virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.0a12ue14",
                     "content": "p.87, p.88 and p.91",
                     "title": "VL 16",
@@ -2182,7 +2182,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.14r, f.14v and f.15r",
                     "title": "GA 044",
@@ -2248,7 +2248,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.895ag279",
                     "content": "f.110r, f.110v, f.111r and f.111v",
                     "title": "arm 724",
@@ -2315,7 +2315,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.e1e1j658",
                     "content": "f.109v",
                     "title": "GA 033",
@@ -2385,7 +2385,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.3410m8px",
                     "content": "f.4r, f.4v, f.5r and f.5v",
                     "title": "sa 14L",
@@ -2404,7 +2404,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/99d3b2ea",
                     "content": "f.2r, f.2v, f.3r, f.3v and f.4r",
                     "title": "GA l1602",
@@ -2470,7 +2470,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.3ba82t98",
                     "content": "f.112v and f.113r",
                     "title": "geo 3",
@@ -2537,7 +2537,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/11280/76f6a40d",
                     "content": "",
                     "title": "sa 393var",
@@ -2603,7 +2603,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.aea2yhd5",
                     "content": "f.269r, f.269v and f.270r",
                     "title": "geo 2",
@@ -2666,7 +2666,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical",
+                    "label": "physical",
                     "relationTo": "https://doi.org/11280/e55e51a5",
                     "content": "f.93r, f.93v and f.94r",
                     "title": "GA 2937",
@@ -2732,7 +2732,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.77c36ef8",
                     "content": "f.92v",
                     "title": "GA 2386",
@@ -2751,7 +2751,7 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "physical and virtual",
+                    "label": "physical and virtual",
                     "relationTo": "https://doi.org/10.34847/nkl.6f83096n",
                     "content": "f.59v and f.60r",
                     "title": "sa 9",
@@ -2817,7 +2817,7 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label2": "virtual",
+                    "label": "virtual",
                     "relationTo": "https://doi.org/11280/e55e51a5",
                     "content": "f.93r, f.93v and f.94r",
                     "title": "GA 2937",
