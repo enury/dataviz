@@ -4,206 +4,30 @@
     "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
     "features": [
         {
-            "type": "Feature",
-            "@id": "https://w3id.org/locolligo/VCH-Places/1",
-            "uuid": 1,
-            "properties": {
-                "title": "Watford (St. Mary)",
-                "county": "Hertfordshire",
-                "parish": "Watford",
-                "KainOliverID": "16132A",
-                "category": "MT",
-                "population": 5989,
-                "schools": ["free"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.395326,
-                    51.656318
-                ],
-                "certainty": "certain"
-            },
-            "descriptions": [
-                {
-                    "value": "<head>Watford (St. Mary)<\/head><para id=\"p1\">WATFORD (<emph type=\"i\">St. Mary<\/emph>), a market-town and parish, and the head of a union, in the hundred of Cashio, or liberty of St. Alban's, county of Hertford; containing, with the hamlets of Cashio, Leavesden, and Oxhey, 5989 inhabitants, of whom 3697 are in the town, 20 miles (W. S. W.) from Hertford, and 15 (N. W.) from London. This place derives its name from the Watlingstreet, which passes in the vicinity, and from a ford here over the river Colne, to which latter its origin also is attributed. It consists of one street about a mile in length, irregularly built, and is supplied with water by a forcing pump, erected by subscription. The manufacture of straw-plat, and three mills for throwing silk, employ a considerable number of persons; there are eight malt-kilns, and two extensive breweries. By means of the Grand Junction cana...",
-                    "source": "http://www.british-history.ac.uk/report.aspx?compid=51382.xml#h3-0001"
-                }
-            ],
-            "links": [
-                {
-                    "type": "seeAlso",
-                    "identifier": "http://www.british-history.ac.uk/report.aspx?compid=43307.xml"
-                },
-                {
-                    "type": "seeAlso",
-                    "identifier": "http://www.british-history.ac.uk/report.aspx?compid=43308.xml"
-                },
-                {
-                    "type": "seeAlso",
-                    "identifier": "http://www.british-history.ac.uk/report.aspx?compid=43309.xml"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Watford",
-                    "citations": [
-                        {
-                            "label": "Kain, R.J.P., Oliver, R.R. (2001). Historic Parishes of England and Wales : an Electronic Map of Boundaries before 1850 with a Gazetteer and Metadata. [data collection]. UK Data Service.",
-                            "@id": "DOI:10.5255/UKDA-SN-4348-1"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q7884789",
-                    "label": "toponym",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q18511725",
-                    "label": "market town",
-                    "sourceLabels": [
-                        {"label": "market-town"}
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q102496",
-                    "label": "parish",
-                    "sourceLabels": [
-                        {"label": "parish"}
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q3397866",
-                    "label": "poor law union",
-                    "sourceLabels": [
-                        {"label": "union"}
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q109258987",
-                    "label": "railway node",
-                    "sourceLabels": [
-                        {"label": "railway"}
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "type": "Feature",
-            "@id": "https://w3id.org/locolligo/VCH-Places/2",
-            "uuid": 2,
-            "properties": {
-                "title": "Watford (St. Peter and St. Paul)",
-                "county": "Northamptonshire",
-                "parish": "Watford",
-                "KainOliverID": 26184,
-                "category": "P",
-                "population": 415,
-                "schools": ["national"]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.109398,
-                    52.321142
-                ],
-                "certainty": "certain"
-            },
-            "descriptions": [
-                {
-                    "value": "<head>Watford (St. Peter and St. Paul)<\/head><para id=\"p3\">WATFORD (<emph type=\"i\">St. Peter and St. Paul<\/emph>), a parish, in the union of Daventry, hundred of Guilsborotjgh, S. division of the county of Northampton, 4¾ miles (N. N. E.) from Daventry; containing 415 inhabitants. It comprises 336l<emph type=\"i\">a<\/emph>. 2<emph type=\"i\">r<\/emph>. 20<emph type=\"i\">p<\/emph>., of which two-thirds are pasture, and the remainder arable; the soil is a strong loam, and the surface in general hilly. The Union canal passes through the parish; on the west is the ancient Watling-street; and the Crick station on the London and Birmingham railway is within a quarter of a mile from the village. The living is a vicarage, valued in the king's books at £11. 7. 8½., and in the patronage of the Crown; net income, £296, with a glebe-house, built in 1841; impropriator, Lord Henley. The tithes were comm...",
-                    "source": "http://www.british-history.ac.uk/report.aspx?compid=51382.xml#h3-0002"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Watford",
-                    "citations": [
-                        {
-                            "label": "Kain, R.J.P., Oliver, R.R. (2001). Historic Parishes of England and Wales : an Electronic Map of Boundaries before 1850 with a Gazetteer and Metadata. [data collection]. UK Data Service.",
-                            "@id": "DOI:10.5255/UKDA-SN-4348-1"
-                        }
-                    ]
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q7884789",
-                    "label": "toponym",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q102496",
-                    "label": "parish",
-                    "sourceLabels": [
-                        {"label": "parish"}
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "identifier": "https://www.wikidata.org/wiki/Q109258987",
-                    "label": "railway node",
-                    "sourceLabels": [
-                        {"label": "railway"}
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"latest": "1848"}
-                            }
-                        ]
-                    }
-                }
-            ]
+	"type": "Feature",
+	"properties": {
+		"title": "Tower of London"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-0.07573787, 51.50854694]
+	},
+	"types": [
+		{ "label": "castle", "identifier": "https://www.wikidata.org/wiki/Q23413" },
+		{ "label": "palace", "identifier": "https://www.wikidata.org/wiki/Q16560" }
+	],
+	"descriptions": [
+		{ "@id": "https://en.wikipedia.org/wiki/White_Tower_%28Tower_of_London%29", "value": "The White Tower is a central tower, the old keep, at the Tower of London. It was built by William the Conqueror during the early 1080s, and subsequently extended. The White Tower was the castle's strongest point militarily, and provided accommodation for the king and his representatives, as well as (...)" },
+		{ "@id": "https://en.wikipedia.org/wiki/Traitors%27_Gate", "value": "The Traitor's Gate is an entrance through which many prisoners of the Tudors arrived at the Tower of London. The gate was built by Edward I, to provide a water gate entrance to the Tower, part of St. Thomas's Tower, which was designed to provide additional accommodation for the royal family (...)" }
+	],
+	"depictions": [
+		{ "@id": "https://www.geograph.org.uk/photo/4142029", "title": "TQ3380 : Poppies in the Moat, Tower of London, E1" },
+		{ "@id": "https://www.geograph.org.uk/photo/2476055", "title": "TQ3380 : The Tower of London" }
+	],
+	"links": [
+		{ "type": "primaryTopicOf", "identifier": "https://historicengland.org.uk/listing/the-list/list-entry/1002061" },
+		{ "type": "primaryTopicOf", "identifier": "https://historicengland.org.uk/listing/the-list/list-entry/1000092" }
+	]
         }
     ]
 }
