@@ -10,6 +10,11 @@
                 "title": "Saint Catherine Monastery",
                 "ccodes": ["EG"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -144,6 +149,11 @@
                 "title": "Universitätsbibliothek Basel",
                 "ccodes": ["CH"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -240,6 +250,11 @@
                 "title": "Biblioteca Nazionale Marciana",
                 "ccodes": ["IT"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -313,6 +328,11 @@
                 "title": "Biblioteca nazionale universitaria di Torino",
                 "ccodes": ["IT"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -385,6 +405,11 @@
             "properties": {
                 "title": "Bibliothèque nationale de France",
                 "ccodes": ["FR"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -588,6 +613,11 @@
                 "title": "Bodleian Library",
                 "ccodes": ["UK"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -652,6 +682,11 @@
             "properties": {
                 "title": "British Library",
                 "ccodes": ["UK"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -783,6 +818,11 @@
                 "title": "Cambridge University Library",
                 "ccodes": ["UK"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -851,6 +891,11 @@
                 "title": "Rabban Hormizd Monastery",
                 "ccodes": ["IQ"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -915,6 +960,11 @@
             "properties": {
                 "title": "Chester Beatty Library",
                 "ccodes": ["IE"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1011,6 +1061,11 @@
                 "title": "Duke University Libraries",
                 "ccodes": ["US"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1072,6 +1127,11 @@
             "properties": {
                 "title": "Freer Gallery of Art",
                 "ccodes": ["US"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1138,6 +1198,11 @@
                 "title": "E-codices",
                 "ccodes": ["CH"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1189,6 +1254,11 @@
             "properties": {
                 "title": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
                 "ccodes": ["US"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1273,6 +1343,11 @@
                 "title": "National Archives and Library of Ethiopia",
                 "ccodes": ["ET"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1338,6 +1413,11 @@
                 "title": "Istifanos Monastery",
                 "ccodes": ["ET"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1398,6 +1478,11 @@
             "properties": {
                 "title": "Speyer Cathedral",
                 "ccodes": ["DE"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1463,6 +1548,11 @@
             "properties": {
                 "title": "Historical Museum of the Palatinate",
                 "ccodes": ["DE"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1533,6 +1623,11 @@
                 "title": "Uppsala University Library",
                 "ccodes": ["SE"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1597,6 +1692,11 @@
             "properties": {
                 "title": "MARK16",
                 "ccodes": ["CH"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1671,6 +1771,11 @@
             "properties": {
                 "title": "Vatican Library",
                 "ccodes": ["IT"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1774,6 +1879,11 @@
                 "title": "National Library of the Czech Republic",
                 "ccodes": ["CZ"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1838,6 +1948,11 @@
             "properties": {
                 "title": "National Library of Russia",
                 "ccodes": ["RU"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -1928,6 +2043,11 @@
                 "title": "National Library of Greece",
                 "ccodes": ["GR"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -1994,6 +2114,11 @@
                 "title": "Archivio Capitolare di Vercelli",
                 "ccodes": ["IT"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2059,6 +2184,11 @@
             "properties": {
                 "title": "Abbey library of St. Gallen",
                 "ccodes": ["CH"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -2143,6 +2273,11 @@
                 "title": "Great Lavra",
                 "ccodes": ["GR"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2209,6 +2344,11 @@
                 "title": "Matenadaran",
                 "ccodes": ["ARM"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2271,6 +2411,11 @@
             "properties": {
                 "title": "University Library of the LMU Munich",
                 "ccodes": ["DE"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -2341,6 +2486,11 @@
             "properties": {
                 "title": "University Library Freiburg",
                 "ccodes": ["DE"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -2431,6 +2581,11 @@
                 "title": "Iviron Monastery",
                 "ccodes": ["GR"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2493,6 +2648,11 @@
             "properties": {
                 "title": "Bible and Orient Museum",
                 "ccodes": ["CH"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -2564,6 +2724,11 @@
                 "title": "Georgian National Museum",
                 "ccodes": ["GE"]
             },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2626,6 +2791,11 @@
             "properties": {
                 "title": "Greek Orthodox Church of Alexandria",
                 "ccodes": ["EG"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -2692,6 +2862,11 @@
             "properties": {
                 "title": "The Morgan Library &amp; Museum",
                 "ccodes": ["US"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
@@ -2777,6 +2952,11 @@
             "properties": {
                 "title": "National Bank of Greece",
                 "ccodes": ["GR"]
+            },
+            "when": {
+                "timespans": {
+                    "start": {"in": 2022}
+                }
             },
             "geometry": {
                 "type": "Point",
