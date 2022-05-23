@@ -14,8 +14,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -43,17 +43,7 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "monastery"
                 }
             ],
             "links": [
@@ -69,9 +59,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.a46c8kd3",
-                    "title": "syS",
+                    "label": "syS",
                     "content": "f.23v",
                     "lang": "syc",
                     "when": {
@@ -87,9 +77,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/10361034",
-                    "title": "GA 1210",
+                    "label": "GA 1210",
                     "content": "f.104v, f.105r and f.105v",
                     "lang": "grc",
                     "when": {
@@ -105,9 +95,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/8980d2164",
-                    "title": "GA 1192",
+                    "label": "GA 1192",
                     "content": "f.128r, f.128v and f.129r ",
                     "lang": "grc",
                     "when": {
@@ -123,9 +113,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/aed3c04e",
-                    "title": "GA 083",
+                    "label": "GA 083",
                     "content": "page 70 and page 71",
                     "lang": "grc",
                     "when": {
@@ -141,9 +131,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/9506e5dc",
-                    "title": "GA 1230",
+                    "label": "GA 1230",
                     "content": "f.146v, f.147r, f.147v and f.148r",
                     "lang": "grc",
                     "when": {
@@ -168,8 +158,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -201,26 +191,15 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
-            "links": [],
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.442azp39",
-                    "title": "GA 1420",
+                    "label": "GA 1420",
                     "content": "f. 47r and f. 47v",
                     "lang": "grc",
                     "when": {
@@ -236,9 +215,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.41643ld6",
-                    "title": "GA 2",
+                    "label": "GA 2",
                     "content": "f.117v, f.118r and f.118v",
                     "lang": "grc",
                     "when": {
@@ -254,9 +233,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/e795e203",
-                    "title": "GA 1",
+                    "label": "GA 1",
                     "content": "f.220r and f.220v",
                     "lang": "grc",
                     "when": {
@@ -284,8 +263,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -317,17 +296,7 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -347,9 +316,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/f936e1cc",
-                    "title": "GA 888",
+                    "label": "GA 888",
                     "content": "f. 230v, f.231r and f.231v",
                     "lang": "grc",
                     "when": {
@@ -377,8 +346,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -410,17 +379,7 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -440,9 +399,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/d49ec78a",
-                    "title": "VL 1",
+                    "label": "VL 1",
                     "content": "f.40r, f.40v and f.41r",
                     "lang": "la",
                     "when": {
@@ -470,8 +429,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -503,17 +462,7 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -533,9 +482,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.04dbyiri",
-                    "title": "sa 474",
+                    "label": "sa 474",
                     "content": "f.26hr and f.26hv",
                     "lang": "cop",
                     "when": {
@@ -551,9 +500,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.d3d1coro",
-                    "title": "GA 099",
+                    "label": "GA 099",
                     "content": "page 161 and page 162",
                     "lang": [
                         "cop",
@@ -572,9 +521,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.7fdcvw5z",
-                    "title": "GA 274",
+                    "label": "GA 274",
                     "content": "f.103v, f.104r and f.104v",
                     "lang": "grc",
                     "when": {
@@ -590,9 +539,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.540bgjjd",
-                    "title": "Eth 2",
+                    "label": "Eth 2",
                     "content": "f.100v, f.101r, f.101v and f.102r",
                     "lang": "gez",
                     "when": {
@@ -608,9 +557,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/aae91e3f",
-                    "title": "GA 579",
+                    "label": "GA 579",
                     "content": "f.69v, f.70r and f.70v",
                     "lang": "grc",
                     "when": {
@@ -626,9 +575,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/4242f209",
-                    "title": "GA 019",
+                    "label": "GA 019",
                     "content": "f.112v, f.113r, f.113v and f.114r",
                     "lang": "grc",
                     "when": {
@@ -644,9 +593,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/fd73c95e",
-                    "title": "GA 04",
+                    "label": "GA 04",
                     "content": "f.151v and f.148r",
                     "lang": "grc",
                     "when": {
@@ -662,9 +611,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/0eb228ed",
-                    "title": "GA 304",
+                    "label": "GA 304",
                     "content": "f.240r, f.240v and f.241r",
                     "lang": "grc",
                     "when": {
@@ -692,8 +641,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -721,17 +670,7 @@
                 {
                     "identifier": "aat:300343396",
                     "label": "research libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -747,9 +686,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.25fcevj8",
-                    "title": "bo 2",
+                    "label": "bo 2",
                     "content": "f.193v, f.194r, f.194v, f.195r, f.195v and f.196r",
                     "lang": [
                         "ar",
@@ -777,8 +716,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -806,17 +745,7 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -836,9 +765,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.23b72o82",
-                    "title": "bo 13",
+                    "label": "bo 13",
                     "content": "f.212r, f.212v, f.213r, f.213v, f.214r",
                     "lang": [
                         "ar",
@@ -854,9 +783,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.2dfa3k8i",
-                    "title": "syC",
+                    "label": "syC",
                     "content": "f.39r",
                     "lang": "syc",
                     "when": {
@@ -872,9 +801,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.f87asw9i",
-                    "title": "Eth 1",
+                    "label": "Eth 1",
                     "content": "f.68r, f.68v and f.69r",
                     "lang": "gez",
                     "when": {
@@ -890,16 +819,16 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/0091fbae",
-                    "title": "GA 02",
+                    "label": "GA 02",
                     "lang": "grc"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/11280/97f4cc8a",
-                    "title": "GA 01",
+                    "label": "GA 01",
                     "content": "f. 227v and f. 228r",
                     "lang": "grc",
                     "when": {
@@ -927,8 +856,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -956,17 +885,7 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -982,9 +901,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.5508o345",
-                    "title": "GA 05",
+                    "label": "GA 05",
                     "content": "f.346v, f.347r, f.347v, f.348r and f.348v",
                     "lang": [
                         "grc",
@@ -1015,8 +934,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1044,17 +963,7 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "monastery"
                 }
             ],
             "links": [
@@ -1070,9 +979,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.b93c5jf3",
-                    "title": "syH6",
+                    "label": "syH6",
                     "content": "f.98r and f.98v",
                     "lang": "syc",
                     "when": {
@@ -1100,8 +1009,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1129,17 +1038,7 @@
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -1155,9 +1054,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.cfac1n0c",
-                    "title": "GA 2604",
+                    "label": "GA 2604",
                     "content": "f.176v, f.177r, f.177v and f.178r",
                     "lang": "grc",
                     "when": {
@@ -1173,9 +1072,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.69c54gki",
-                    "title": "arm 252",
+                    "label": "arm 252",
                     "content": "f.120v and f.121r",
                     "lang": "xcl",
                     "when": {
@@ -1188,9 +1087,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.f3f87nzv",
-                    "title": "syH5",
+                    "label": "syH5",
                     "content": "f.113v, f.114r and f.114v",
                     "lang": "syc",
                     "when": {
@@ -1215,8 +1114,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1244,17 +1143,7 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -1270,9 +1159,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.602289z8",
-                    "title": "sa 366",
+                    "label": "sa 366",
                     "content": "f.814r and f.814v (top fragment)",
                     "lang": "cop",
                     "when": {
@@ -1297,8 +1186,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1326,17 +1215,7 @@
                 {
                     "identifier": "aat:300264847",
                     "label": "art museums (buildings)",
-                    "sourceLabel": "art museum",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "art museum"
                 }
             ],
             "links": [
@@ -1352,9 +1231,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://doi.org/10.34847/nkl.4ffaz7d0",
-                    "title": "GA 032",
+                    "label": "GA 032",
                     "content": "page 369, page 370, page 371 and page 372",
                     "lang": "grc",
                     "when": {
@@ -1382,8 +1261,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1411,25 +1290,15 @@
                 {
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "virtual",
+                    "relationName": "digital",
                     "relationTo": "https://doi.org/10.34847/nkl.ba7e19yf",
-                    "title": "arb 3",
+                    "label": "arb 3",
                     "content": "page 115 and page 116",
                     "lang": "ar",
                     "when": {
@@ -1454,8 +1323,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1483,17 +1352,7 @@
                 {
                     "identifier": "aat:300312241",
                     "label": "libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -1509,9 +1368,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "virtual",
+                    "relationName": "digital",
                     "relationTo": "https://doi.org/10.34847/nkl.daba634n",
-                    "title": "Eth 3",
+                    "label": "Eth 3",
                     "content": "f. 179r, f. 179v, f. 180r and f. 180v",
                     "lang": "gez",
                     "when": {
@@ -1527,9 +1386,9 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "virtual",
+                    "relationName": "digital",
                     "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
-                    "title": "Eth 4",
+                    "label": "Eth 4",
                     "content": "f.168v, f.169r, f.169v and f. 170r",
                     "lang": "gez",
                     "when": {
@@ -1557,8 +1416,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1586,17 +1445,7 @@
                 {
                     "identifier": "aat:300343387",
                     "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -1612,9 +1461,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical",
+                    "relationName": "physical",
                     "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
-                    "title": "Eth 4",
+                    "label": "Eth 4",
                     "content": "f.168v, f.169r, f.169v and f. 170r",
                     "lang": "gez",
                     "when": {
@@ -1642,8 +1491,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1671,17 +1520,7 @@
                 {
                     "identifier": "aat:300000641",
                     "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "monastery"
                 }
             ],
             "links": [
@@ -1693,9 +1532,9 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical",
+                    "relationName": "physical",
                     "relationTo": "https://doi.org/10.34847/nkl.daba634n",
-                    "title": "Eth 3",
+                    "label": "Eth 3",
                     "content": "f. 179r, f. 179v, f. 180r and f. 180v",
                     "lang": "gez",
                     "when": {
@@ -1723,8 +1562,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1756,17 +1595,7 @@
                 {
                     "identifier": "aat:300007501",
                     "label": "cathedrals (works by context)",
-                    "sourceLabel": "cathedral",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "cathedral"
                 }
             ],
             "links": [
@@ -1778,10 +1607,10 @@
             "relations": [
                 {
                     "relationType": "wd:P1830",
-                    "label": "ownership",
+                    "relationName": "ownership",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.188v",
-                    "title": "Got 1",
+                    "label": "Got 1",
                     "lang": "got",
                     "when": {
                         "timespans": [
@@ -1808,8 +1637,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1841,17 +1670,7 @@
                 {
                     "identifier": "aat:300312304",
                     "label": "history museums (institutions)",
-                    "sourceLabel": "museum",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "museum"
                 }
             ],
             "links": [
@@ -1867,10 +1686,10 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical",
+                    "relationName": "physical",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.188v",
-                    "title": "Got 1",
+                    "label": "Got 1",
                     "lang": "got",
                     "when": {
                         "timespans": [
@@ -1897,8 +1716,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -1926,17 +1745,7 @@
                 {
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "links": [
@@ -1952,10 +1761,10 @@
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
+                    "relationName": "physical and digital",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.187r, f.187v, f.188r",
-                    "title": "Got 1",
+                    "label": "Got 1",
                     "lang": "got",
                     "when": {
                         "timespans": [
@@ -1982,8 +1791,8 @@
                 "timespans": [
                     {
                         "start": {
-                            "earliest": 2022,
-                            "latest": 2022
+                            "earliest": "1000",
+                            "latest": "1099"
                         }
                     }
                 ]
@@ -2011,26 +1820,16 @@
                 {
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
+                    "sourceLabel": "library"
                 }
             ],
             "relations": [
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "virtual",
+                    "relationName": "digital",
                     "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
                     "content": "f.188v",
-                    "title": "Got 1",
+                    "label": "Got 1",
                     "lang": "got",
                     "when": {
                         "timespans": [
@@ -2041,1517 +1840,6 @@
                                 }
                             }
                         ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "Virtual",
-                    "relationTo": "https://doi.org/11280/e55e51a5",
-                    "content": "f.94v and f.95r",
-                    "title": "GA 2937",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "900",
-                                    "latest": "999"
-                                }
-                            }
-                        ],
-                        "label": "10th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q213678",
-            "uuid": "Q213678",
-            "type": "Feature",
-            "properties": {
-                "title": "Vatican Library",
-                "ccodes": ["IT"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.454444,
-                    41.904722
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Vatican Library",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Biblioteca Apostolica Vaticana",
-                    "lang": "it"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/146085455/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n80050101"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/11280/1d77ee0b",
-                    "content": "page 1303",
-                    "title": "GA 03",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "599"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.0eedelvl",
-                    "content": "f.80r and f.80v",
-                    "title": "syH4",
-                    "lang": "syc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": "858"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.0eedelvl",
-                    "content": "f.74v",
-                    "title": "arb 2",
-                    "lang": "ar",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "800",
-                                    "latest": "1199"
-                                }
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1967876",
-            "uuid": "Q1967876",
-            "type": "Feature",
-            "properties": {
-                "title": "National Library of the Czech Republic",
-                "ccodes": ["CZ"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.415833,
-                    50.086667
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "National Library of the Czech Republic",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Národní knihovna České republiky",
-                    "lang": "cz"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/265219579/"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.eecb9te7",
-                    "content": "f.177v, f.178r, f.178v, f.179r and f.179v",
-                    "title": "GA 1422",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "599"
-                                }
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q267566",
-            "uuid": "Q267566",
-            "type": "Feature",
-            "properties": {
-                "title": "National Library of Russia",
-                "ccodes": ["RU"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.335611,
-                    59.9335
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "National Library of Russia",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Saltykov-Shchedrin Library",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/127114742/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/nr93024024"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.cc57xr94",
-                    "content": "f.128r and f.128v",
-                    "title": "Slav 1",
-                    "lang": "cu",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 900,
-                                    "latest": 1099
-                                }
-                            }
-                        ],
-                        "label": "10th-11th century CE"
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.5fac11f0",
-                    "content": "f.4r, f.4v and f.5r",
-                    "title": "fa 32",
-                    "lang": "cop",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 800,
-                                    "latest": 999
-                                }
-                            }
-                        ],
-                        "label": "9th-10th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1467610",
-            "uuid": "Q1467610",
-            "type": "Feature",
-            "properties": {
-                "title": "National Library of Greece",
-                "ccodes": ["GR"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.692222,
-                    37.941389
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "National Library of Greece",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343387",
-                    "label": "national libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/136996034/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n85048742"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.cb56206p",
-                    "content": "f.104v, f.105r and f.105v",
-                    "title": "GA 800",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 1100,
-                                    "latest": 1199
-                                }
-                            }
-                        ],
-                        "label": "12th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.archivissima.it/2021/gli-archivi/608-archivio-capitolare-di-vercelli",
-            "uuid": "Q16532475",
-            "type": "Feature",
-            "properties": {
-                "title": "Archivio Capitolare di Vercelli",
-                "ccodes": ["IT"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    8.423029,
-                    45.329716
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Capitular Library of Vercelli",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Archivio Capitolare di Vercelli",
-                    "lang": "it"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312242",
-                    "label": "archives (institutions)",
-                    "sourceLabel": "archive",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/126442760/"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.56c08668",
-                    "content": "f.633 and f.634",
-                    "title": "VL 3",
-                    "lang": "la",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "599"
-                                }
-                            }
-                        ],
-                        "label": "4th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q689896",
-            "uuid": "Q689896",
-            "type": "Feature",
-            "properties": {
-                "title": "Abbey library of St. Gallen",
-                "ccodes": ["CH"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.3764,
-                    47.4228
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Abbey library of St. Gallen",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Stiftsbibliothek St. Gallen",
-                    "lang": "de"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312241",
-                    "label": "libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/133462571/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n80104321"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.0a12ue14",
-                    "content": "p.87, p.88 and p.91",
-                    "title": "VL 16",
-                    "lang": "la",
-                    "when": [
-                        {
-                            "timespans": [
-                                {
-                                    "start": {
-                                        "earliest": "400",
-                                        "latest": "499"
-                                    }
-                                }
-                            ],
-                            "label": "5th and 7th century"
-                        },
-                        {
-                            "timespans": [
-                                {
-                                    "start": {
-                                        "earliest": "600",
-                                        "latest": "699"
-                                    }
-                                }
-                            ],
-                            "label": ""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q546516",
-            "uuid": "Q546516",
-            "type": "Feature",
-            "properties": {
-                "title": "Great Lavra",
-                "ccodes": ["GR"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.382728,
-                    40.170876
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Great Lavra",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300000641",
-                    "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/122904704/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n82028238"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
-                    "content": "f.14r, f.14v and f.15r",
-                    "title": "GA 044",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "700",
-                                    "latest": "899"
-                                }
-                            }
-                        ],
-                        "label": "8th-9th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1322278",
-            "uuid": "Q1322278",
-            "type": "Feature",
-            "properties": {
-                "title": "Matenadaran",
-                "ccodes": ["ARM"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    44.52113,
-                    40.19207
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Matenadaran",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312241",
-                    "label": "libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/153334639/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n80144915"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.895ag279",
-                    "content": "f.110r, f.110v, f.111r and f.111v",
-                    "title": "arm 724",
-                    "lang": "xcl",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": 989}
-                            }
-                        ],
-                        "label": "989 CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q2496326",
-            "uuid": "Q2496326",
-            "type": "Feature",
-            "properties": {
-                "title": "University Library of the LMU Munich",
-                "ccodes": ["DE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.5807,
-                    48.15
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "University Library of the LMU Munich",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Universitätsbibliothek der LMU München",
-                    "lang": "de"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343392",
-                    "label": "academic libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/146551110/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n50064504"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.e1e1j658",
-                    "content": "f.109v",
-                    "title": "GA 033",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "900",
-                                    "latest": "999"
-                                }
-                            }
-                        ],
-                        "label": "10th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q2496308",
-            "uuid": "Q2496308",
-            "type": "Feature",
-            "properties": {
-                "title": "University Library Freiburg",
-                "ccodes": ["DE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.845278,
-                    47.993889
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "University Library Freiburg",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Universitätsbibliothek Freiburg",
-                    "lang": "de"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300343392",
-                    "label": "academic libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/143595522/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n50061011"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.3410m8px",
-                    "content": "f.4r, f.4v, f.5r and f.5v",
-                    "title": "sa 14L",
-                    "lang": "cop",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "600",
-                                    "latest": "799"
-                                }
-                            }
-                        ],
-                        "label": "7th-8th century CE"
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/11280/99d3b2ea",
-                    "content": "f.2r, f.2v, f.3r, f.3v and f.4r",
-                    "title": "GA l1602",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "700",
-                                    "latest": "799"
-                                }
-                            }
-                        ],
-                        "label": "8th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q853354",
-            "uuid": "Q853354",
-            "type": "Feature",
-            "properties": {
-                "title": "Iviron Monastery",
-                "ccodes": ["GR"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    24.284888,
-                    40.245515
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Iviron Monastery",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300000641",
-                    "label": "monasteries (built complexes)",
-                    "sourceLabel": "monastery",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/144318811/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n85264344"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.3ba82t98",
-                    "content": "f.112v and f.113r",
-                    "title": "geo 3",
-                    "lang": "oge",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": 913}
-                            }
-                        ],
-                        "label": "913 CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q679493",
-            "uuid": "Q679493",
-            "type": "Feature",
-            "properties": {
-                "title": "Bible and Orient Museum",
-                "ccodes": ["CH"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    7.152778,
-                    46.806389
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Bible and Orient Museum",
-                    "lang": "en"
-                },
-                {
-                    "toponym": "Museum Bibel+Orient",
-                    "lang": "de"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312304",
-                    "label": "history museums (institutions)",
-                    "sourceLabel": "museum",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/121766750/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/no2005046428"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/11280/76f6a40d",
-                    "content": "",
-                    "title": "sa 393var",
-                    "lang": "cop",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "600",
-                                    "latest": "899"
-                                }
-                            }
-                        ],
-                        "label": "7th-9th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q2586798",
-            "uuid": "Q2586798",
-            "type": "Feature",
-            "properties": {
-                "title": "Georgian National Museum",
-                "ccodes": ["GE"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    44.800255,
-                    41.696046
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Georgian National Museum",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312321",
-                    "label": "national museums (institutions)",
-                    "sourceLabel": "museum",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/138403606/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n82165223"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.aea2yhd5",
-                    "content": "f.269r, f.269v and f.270r",
-                    "title": "geo 2",
-                    "lang": "oge",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": 897}
-                            }
-                        ],
-                        "label": "897 CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q251268",
-            "uuid": "Q251268",
-            "type": "Feature",
-            "properties": {
-                "title": "Greek Orthodox Church of Alexandria",
-                "ccodes": ["EG"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.89595,
-                    31.195278
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "Greek Orthodox Church of Alexandria",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300007466",
-                    "label": "digital libraries",
-                    "sourceLabel": "churches (buildings)",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/131950324/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/ n83032369\n"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical",
-                    "relationTo": "https://doi.org/11280/e55e51a5",
-                    "content": "f.93r, f.93v and f.94r",
-                    "title": "GA 2937",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "900",
-                                    "latest": "999"
-                                }
-                            }
-                        ],
-                        "label": "10th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1478423",
-            "uuid": "Q1478423",
-            "type": "Feature",
-            "properties": {
-                "title": "The Morgan Library &amp; Museum",
-                "ccodes": ["US"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.981556,
-                    40.748803
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "The Morgan Library &amp; Museum",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300312241",
-                    "label": "libraries (institutions)",
-                    "sourceLabel": "library",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/140782799/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n78095799"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.77c36ef8",
-                    "content": "f.92v",
-                    "title": "GA 2386",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 1000,
-                                    "latest": 1099
-                                }
-                            }
-                        ],
-                        "label": "11th century CE"
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "physical and virtual",
-                    "relationTo": "https://doi.org/10.34847/nkl.6f83096n",
-                    "content": "f.59v and f.60r",
-                    "title": "sa 9",
-                    "lang": "cop",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 800,
-                                    "latest": 999
-                                }
-                            }
-                        ],
-                        "label": "9th-10th century CE"
-                    }
-                }
-            ]
-        },
-        {
-            "@id": "https://www.wikidata.org/wiki/Q1816028",
-            "uuid": "Q1816028",
-            "type": "Feature",
-            "properties": {
-                "title": "National Bank of Greece",
-                "ccodes": ["GR"]
-            },
-            "when": {
-                "timespans": [
-                    {
-                        "start": {
-                            "earliest": 2022,
-                            "latest": 2022
-                        }
-                    }
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    23.729028,
-                    37.981
-                ]
-            },
-            "descriptions": [
-                {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
-                }
-            ],
-            "names": [
-                {
-                    "toponym": "National Bank of Greece",
-                    "lang": "en"
-                }
-            ],
-            "types": [
-                {
-                    "identifier": "aat:300410327",
-                    "label": "banks (institutions)",
-                    "sourceLabel": "bank",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": 2022,
-                                    "latest": 2022
-                                }
-                            }
-                        ]
-                    }
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://viaf.org/viaf/146085455/"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://id.loc.gov/authorities/n84082847"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "label": "virtual",
-                    "relationTo": "https://doi.org/11280/e55e51a5",
-                    "content": "f.93r, f.93v and f.94r",
-                    "title": "GA 2937",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "900",
-                                    "latest": "999"
-                                }
-                            }
-                        ],
-                        "label": "10th century CE"
                     }
                 }
             ]
