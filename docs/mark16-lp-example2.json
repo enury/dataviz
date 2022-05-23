@@ -11,12 +11,14 @@
                 "ccodes": ["EG"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -43,12 +45,14 @@
                     "label": "monasteries (built complexes)",
                     "sourceLabel": "monastery",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -161,12 +165,14 @@
                 "ccodes": ["CH"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -197,12 +203,14 @@
                     "label": "academic libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -273,12 +281,14 @@
                 "ccodes": ["IT"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -309,12 +319,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -362,12 +374,14 @@
                 "ccodes": ["IT"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -398,12 +412,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -451,12 +467,14 @@
                 "ccodes": ["FR"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -487,12 +505,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -669,12 +689,14 @@
                 "ccodes": ["UK"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -701,12 +723,14 @@
                     "label": "research libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -750,12 +774,14 @@
                 "ccodes": ["UK"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -782,12 +808,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -896,12 +924,14 @@
                 "ccodes": ["UK"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -928,12 +958,14 @@
                     "label": "academic libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -980,12 +1012,14 @@
                 "ccodes": ["IQ"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1012,12 +1046,14 @@
                     "label": "monasteries (built complexes)",
                     "sourceLabel": "monastery",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1061,12 +1097,14 @@
                 "ccodes": ["IE"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1093,12 +1131,14 @@
                     "label": "libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1172,12 +1212,14 @@
                 "ccodes": ["US"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1204,12 +1246,14 @@
                     "label": "academic libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1250,12 +1294,14 @@
                 "ccodes": ["US"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1282,12 +1328,14 @@
                     "label": "art museums (buildings)",
                     "sourceLabel": "art museum",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1331,12 +1379,14 @@
                 "ccodes": ["CH"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1363,12 +1413,14 @@
                     "label": "digital libraries",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1399,12 +1451,14 @@
                 "ccodes": ["US"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1431,12 +1485,14 @@
                     "label": "libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1498,12 +1554,14 @@
                 "ccodes": ["ET"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1530,12 +1588,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1579,12 +1639,14 @@
                 "ccodes": ["ET"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1611,12 +1673,14 @@
                     "label": "monasteries (built complexes)",
                     "sourceLabel": "monastery",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1656,12 +1720,14 @@
                 "ccodes": ["DE"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1692,12 +1758,14 @@
                     "label": "cathedrals (works by context)",
                     "sourceLabel": "cathedral",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1737,12 +1805,14 @@
                 "ccodes": ["DE"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1773,12 +1843,14 @@
                     "label": "history museums (institutions)",
                     "sourceLabel": "museum",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1822,12 +1894,14 @@
                 "ccodes": ["SE"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1854,12 +1928,14 @@
                     "label": "academic libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1903,12 +1979,14 @@
                 "ccodes": ["CH"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -1935,12 +2013,14 @@
                     "label": "digital libraries",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -1993,12 +2073,14 @@
                 "ccodes": ["IT"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2029,12 +2111,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2111,12 +2195,14 @@
                 "ccodes": ["CZ"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2147,12 +2233,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2192,12 +2280,14 @@
                 "ccodes": ["RU"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2228,12 +2318,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2297,12 +2389,14 @@
                 "ccodes": ["GR"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2329,12 +2423,14 @@
                     "label": "national libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2379,12 +2475,14 @@
                 "ccodes": ["IT"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2415,12 +2513,14 @@
                     "label": "archives (institutions)",
                     "sourceLabel": "archive",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2461,12 +2561,14 @@
                 "ccodes": ["CH"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2497,12 +2599,14 @@
                     "label": "libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2560,12 +2664,14 @@
                 "ccodes": ["GR"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2592,12 +2698,14 @@
                     "label": "monasteries (built complexes)",
                     "sourceLabel": "monastery",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2642,12 +2750,14 @@
                 "ccodes": ["ARM"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2674,12 +2784,14 @@
                     "label": "libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2721,12 +2833,14 @@
                 "ccodes": ["DE"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2757,12 +2871,14 @@
                     "label": "academic libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2807,12 +2923,14 @@
                 "ccodes": ["DE"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2843,12 +2961,14 @@
                     "label": "academic libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2912,12 +3032,14 @@
                 "ccodes": ["GR"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -2944,12 +3066,14 @@
                     "label": "monasteries (built complexes)",
                     "sourceLabel": "monastery",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -2991,12 +3115,14 @@
                 "ccodes": ["CH"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -3027,12 +3153,14 @@
                     "label": "history museums (institutions)",
                     "sourceLabel": "museum",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -3077,12 +3205,14 @@
                 "ccodes": ["GE"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -3109,12 +3239,14 @@
                     "label": "national museums (institutions)",
                     "sourceLabel": "museum",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -3156,12 +3288,14 @@
                 "ccodes": ["EG"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -3188,12 +3322,14 @@
                     "label": "digital libraries",
                     "sourceLabel": "churches (buildings)",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -3238,12 +3374,14 @@
                 "ccodes": ["US"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -3270,12 +3408,14 @@
                     "label": "libraries (institutions)",
                     "sourceLabel": "library",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
@@ -3339,12 +3479,14 @@
                 "ccodes": ["GR"]
             },
             "when": {
-                "timespans": {
-                    "start": {
-                        "earliest": 2022,
-                        "latest": 2022
+                "timespans": [
+                    {
+                        "start": {
+                            "earliest": 2022,
+                            "latest": 2022
+                        }
                     }
-                }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -3371,12 +3513,14 @@
                     "label": "banks (institutions)",
                     "sourceLabel": "bank",
                     "when": {
-                        "timespans": {
-                            "start": {
-                                "earliest": 2022,
-                                "latest": 2022
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": 2022,
+                                    "latest": 2022
+                                }
                             }
-                        }
+                        ]
                     }
                 }
             ],
