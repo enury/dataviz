@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "@context": "https://raw.githubusercontent.com/LinkedPasts/linked-places/master/linkedplaces-context-v1.1.jsonld",
+    "@context": "https://docuracy.github.io/Locolligo/contexts/linkedplaces.jsonld",
     "features": [
         {
             "@id": "https://www.wikidata.org/wiki/Q185362",
@@ -18,7 +18,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -30,13 +31,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Saint Catherine's Monastery, Mount Sinai",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -54,95 +63,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://pleiades.stoa.org/places/746826"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.a46c8kd3",
-                    "label": "syS",
-                    "content": "f.23v",
-                    "lang": "syc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "300",
-                                    "latest": "499"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/10361034",
-                    "label": "GA 1210",
-                    "content": "f.104v, f.105r and f.105v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1000",
-                                    "latest": "1099"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/8980d2164",
-                    "label": "GA 1192",
-                    "content": "f.128r, f.128v and f.129r ",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1000",
-                                    "latest": "1099"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/aed3c04e",
-                    "label": "GA 083",
-                    "content": "page 70 and page 71",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "699"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/9506e5dc",
-                    "label": "GA 1230",
-                    "content": "f.146v, f.147r, f.147v and f.148r",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": "1124"}
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -162,7 +82,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -174,13 +95,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Basel University Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "BUniversitätsbibliothek Basel",
@@ -192,62 +121,6 @@
                     "identifier": "aat:300343392",
                     "label": "academic libraries (institutions)",
                     "sourceLabel": "library"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.442azp39",
-                    "label": "GA 1420",
-                    "content": "f. 47r and f. 47v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1200",
-                                    "latest": "1299"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.41643ld6",
-                    "label": "GA 2",
-                    "content": "f.117v, f.118r and f.118v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1000",
-                                    "latest": "1199"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/e795e203",
-                    "label": "GA 1",
-                    "content": "f.220r and f.220v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "900",
-                                    "latest": "999"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -267,7 +140,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -278,14 +152,32 @@
             },
             "descriptions": [
                 {
-                    "value": "test",
-                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
+                    "value": "f. 230v, f.231r and f.231v",
+                    "source": "https://mr-mark16.sib.swiss/show?id=Qk8y",
+                    "label": "GA 888",
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {
+                                    "earliest": "1300",
+                                    "latest": "1399"
+                                }
+                            }
+                        ]
+                    }
                 }
             ],
             "names": [
                 {
                     "toponym": "Biblioteca Nazionale Marciana",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Biblioteca nazionale Marciana",
@@ -312,26 +204,6 @@
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/names/n80040307.html"
                 }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/f936e1cc",
-                    "label": "GA 888",
-                    "content": "f. 230v, f.231r and f.231v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1300",
-                                    "latest": "1399"
-                                }
-                            }
-                        ]
-                    }
-                }
             ]
         },
         {
@@ -350,7 +222,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -362,13 +235,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "National University Library of Turin",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Biblioteca nazionale universitaria di Torino",
@@ -395,26 +276,6 @@
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n82059101"
                 }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/d49ec78a",
-                    "label": "VL 1",
-                    "content": "f.40r, f.40v and f.41r",
-                    "lang": "la",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "380",
-                                    "latest": "420"
-                                }
-                            }
-                        ]
-                    }
-                }
             ]
         },
         {
@@ -433,7 +294,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -445,13 +307,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Bibliothèque nationale de France",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Bibliothèque nationale de France",
@@ -478,155 +348,6 @@
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/no95028191"
                 }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.04dbyiri",
-                    "label": "sa 474",
-                    "content": "f.26hr and f.26hv",
-                    "lang": "cop",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "800",
-                                    "latest": "999"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.d3d1coro",
-                    "label": "GA 099",
-                    "content": "page 161 and page 162",
-                    "lang": [
-                        "cop",
-                        "grc"
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "600",
-                                    "latest": "699"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.7fdcvw5z",
-                    "label": "GA 274",
-                    "content": "f.103v, f.104r and f.104v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "900",
-                                    "latest": "999"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.540bgjjd",
-                    "label": "Eth 2",
-                    "content": "f.100v, f.101r, f.101v and f.102r",
-                    "lang": "gez",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1300",
-                                    "latest": "1399"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/aae91e3f",
-                    "label": "GA 579",
-                    "content": "f.69v, f.70r and f.70v",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1200",
-                                    "latest": "1299"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/4242f209",
-                    "label": "GA 019",
-                    "content": "f.112v, f.113r, f.113v and f.114r",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "700",
-                                    "latest": "799"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/fd73c95e",
-                    "label": "GA 04",
-                    "content": "f.151v and f.148r",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "400",
-                                    "latest": "499"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/0eb228ed",
-                    "label": "GA 304",
-                    "content": "f.240r, f.240v and f.241r",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1100",
-                                    "latest": "1199"
-                                }
-                            }
-                        ]
-                    }
-                }
             ]
         },
         {
@@ -645,7 +366,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -657,13 +379,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Bodleian Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -681,26 +411,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n80020306"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.25fcevj8",
-                    "label": "bo 2",
-                    "content": "f.193v, f.194r, f.194v, f.195r, f.195v and f.196r",
-                    "lang": [
-                        "ar",
-                        "cop"
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": "1174"}
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -720,7 +430,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -732,13 +443,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "British Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -761,87 +480,6 @@
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n81139951"
                 }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.23b72o82",
-                    "label": "bo 13",
-                    "content": "f.212r, f.212v, f.213r, f.213v, f.214r",
-                    "lang": [
-                        "ar",
-                        "cop"
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": "1208"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.2dfa3k8i",
-                    "label": "syC",
-                    "content": "f.39r",
-                    "lang": "syc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "400",
-                                    "latest": "499"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.f87asw9i",
-                    "label": "Eth 1",
-                    "content": "f.68r, f.68v and f.69r",
-                    "lang": "gez",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1700",
-                                    "latest": "1799"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/0091fbae",
-                    "label": "GA 02",
-                    "lang": "grc"
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/11280/97f4cc8a",
-                    "label": "GA 01",
-                    "content": "f. 227v and f. 228r",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "300",
-                                    "latest": "399"
-                                }
-                            }
-                        ]
-                    }
-                }
             ]
         },
         {
@@ -860,7 +498,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -872,13 +511,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Cambridge University Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -896,29 +543,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n81070793"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.5508o345",
-                    "label": "GA 05",
-                    "content": "f.346v, f.347r, f.347v, f.348r and f.348v",
-                    "lang": [
-                        "grc",
-                        "la"
-                    ],
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "400",
-                                    "latest": "499"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -938,7 +562,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -950,13 +575,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Chaldean Antonian Order Library, St. Hormizd Monastery (Alqosh, Irak)",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -974,26 +607,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n2010006076"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.b93c5jf3",
-                    "label": "syH6",
-                    "content": "f.98r and f.98v",
-                    "lang": "syc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "800",
-                                    "latest": "1099"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1013,7 +626,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1025,13 +639,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Chester Beatty Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1049,56 +671,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n80050107"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.cfac1n0c",
-                    "label": "GA 2604",
-                    "content": "f.176v, f.177r, f.177v and f.178r",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1100",
-                                    "latest": "1199"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.69c54gki",
-                    "label": "arm 252",
-                    "content": "f.120v and f.121r",
-                    "lang": "xcl",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": "1174"}
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.f3f87nzv",
-                    "label": "syH5",
-                    "content": "f.113v, f.114r and f.114v",
-                    "lang": "syc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": "1177"}
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1118,7 +690,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,13 +703,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Duke University Libraries",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1154,23 +735,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n85007446"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.602289z8",
-                    "label": "sa 366",
-                    "content": "f.814r and f.814v (top fragment)",
-                    "lang": "cop",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"earliest": "600"}
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1190,7 +754,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1202,13 +767,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Freer Gallery of Art",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1226,26 +799,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n85007446"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.4ffaz7d0",
-                    "label": "GA 032",
-                    "content": "page 369, page 370, page 371 and page 372",
-                    "lang": "grc",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "375",
-                                    "latest": "425"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1265,7 +818,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1277,13 +831,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "E-codices",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1291,23 +853,6 @@
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
                     "sourceLabel": "library"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.ba7e19yf",
-                    "label": "arb 3",
-                    "content": "page 115 and page 116",
-                    "lang": "ar",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {"in": "1723"}
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1327,7 +872,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1339,13 +885,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Hill Museum & Manuscript Library (Collegeville, Minnesota)",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1363,44 +917,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/no2005044796"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "digital",
-                    "relationTo": "https://doi.org/10.34847/nkl.daba634n",
-                    "label": "Eth 3",
-                    "content": "f. 179r, f. 179v, f. 180r and f. 180v",
-                    "lang": "gez",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1280",
-                                    "latest": "1281"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "digital",
-                    "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
-                    "label": "Eth 4",
-                    "content": "f.168v, f.169r, f.169v and f. 170r",
-                    "lang": "gez",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1339",
-                                    "latest": "1350"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1420,7 +936,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1432,13 +949,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "National Archives and Library of Ethiopia",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1456,26 +981,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/no00074874"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical",
-                    "relationTo": "https://nakala.fr/10.34847/nkl.afbci193",
-                    "label": "Eth 4",
-                    "content": "f.168v, f.169r, f.169v and f. 170r",
-                    "lang": "gez",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1339",
-                                    "latest": "1350"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1495,7 +1000,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1507,13 +1013,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Istifanos Monastery",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1527,26 +1041,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://www.geonames.org/334824"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical",
-                    "relationTo": "https://doi.org/10.34847/nkl.daba634n",
-                    "label": "Eth 3",
-                    "content": "f. 179r, f. 179v, f. 180r and f. 180v",
-                    "lang": "gez",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "1280",
-                                    "latest": "1281"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1566,7 +1060,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1578,13 +1073,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Speyer Cathedral",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Speyer Dom",
@@ -1602,26 +1105,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://www.geonames.org/334824"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "wd:P1830",
-                    "relationName": "ownership",
-                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
-                    "content": "f.188v",
-                    "label": "Got 1",
-                    "lang": "got",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "599"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1641,7 +1124,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1653,13 +1137,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Historical Museum of the Palatinate",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 },
                 {
                     "toponym": "Historisches Museum der Pfalz",
@@ -1682,26 +1174,6 @@
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n86067531"
                 }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical",
-                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
-                    "content": "f.188v",
-                    "label": "Got 1",
-                    "lang": "got",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "599"
-                                }
-                            }
-                        ]
-                    }
-                }
             ]
         },
         {
@@ -1720,7 +1192,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1732,13 +1205,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "Uppsala University Library",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1756,26 +1237,6 @@
                 {
                     "type": "closeMatch",
                     "identifier": "https://id.loc.gov/authorities/n50060405"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "physical and digital",
-                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
-                    "content": "f.187r, f.187v, f.188r",
-                    "label": "Got 1",
-                    "lang": "got",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "599"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         },
@@ -1795,7 +1256,8 @@
                             "latest": "1099"
                         }
                     }
-                ]
+                ],
+                "label": "11th century CE"
             },
             "geometry": {
                 "type": "Point",
@@ -1807,13 +1269,21 @@
             "descriptions": [
                 {
                     "value": "test",
+                    "label": "label",
                     "source": "https://mr-mark16.sib.swiss/show?id=Qk8y"
                 }
             ],
             "names": [
                 {
                     "toponym": "MARK16",
-                    "lang": "en"
+                    "lang": "en",
+                    "citations": [
+                        {
+                            "label": "Hookland Travels (1635)",
+                            "year": 1635,
+                            "@id": "http://somearchive.org/hookland_travels"
+                        }
+                    ]
                 }
             ],
             "types": [
@@ -1821,26 +1291,6 @@
                     "identifier": "aat:300391336",
                     "label": "digital libraries",
                     "sourceLabel": "library"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationName": "digital",
-                    "relationTo": "https://nakala.fr/10.34847/nkl.3068hb8i",
-                    "content": "f.188v",
-                    "label": "Got 1",
-                    "lang": "got",
-                    "when": {
-                        "timespans": [
-                            {
-                                "start": {
-                                    "earliest": "500",
-                                    "latest": "599"
-                                }
-                            }
-                        ]
-                    }
                 }
             ]
         }
